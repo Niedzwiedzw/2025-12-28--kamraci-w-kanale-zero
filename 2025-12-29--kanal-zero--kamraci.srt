@@ -1,0 +1,1361 @@
+Downloading ggml model large-v3-turbo-q5_0 from 'https://huggingface.co/ggerganov/whisper.cpp' ...
+Model large-v3-turbo-q5_0 already exists. Skipping download.
+
+[00:00:00.000 --> 00:00:10.320]   Hej strzelcy wraz, nad nami orzeł biały, a przeciw nam śmiertelny stoi wróg.
+[00:00:10.320 --> 00:00:17.840]   Powiedziałem to, co czułem, co mnie boli. Pytanie, czy byłbym w stanie tego to zrobić? Nie wiem, bo wchodzimy w przestrzeń Szekspira.
+[00:00:17.840 --> 00:00:22.700]   Jeśli się zmieni sytuacja polityczna, mam obiecane, że będę ministrem spraw wewnętrznych.
+[00:00:22.700 --> 00:00:28.200]   Nawet najpiękniejszy dzień wojny jest i tak gorszy od najgorszego dnia pokoju.
+[00:00:28.200 --> 00:00:34.440]   Nat Love Croissant od All Nutrition, truskawkowy bez dodanego cukru. Idealny na chwilę przyjemności.
+[00:00:34.440 --> 00:00:40.500]   Twoja karta ma zero benefitów? Zmienią na kartę Zen.
+[00:00:40.500 --> 00:00:50.080]   Siedem polskich grzechów głównych analizuje Joanna Pinkwart. Najnowszy magazyn Zero już dostępny. Zamów na magazyn.zero.pl
+[00:00:52.960 --> 00:00:58.280]   Kilka tygodni temu przeprowadziliśmy wywiad z Wojciechem Olszańskim oraz Marcinem Osadowskim.
+[00:00:58.280 --> 00:01:03.840]   Po przesłuchaniu rozmowy byliśmy porażeni tezami wygłaszanymi przez liderów kamratów.
+[00:01:03.840 --> 00:01:13.080]   Dlatego redakcyjnie zastanawialiśmy się, co z tym zrobić i doszliśmy do wniosku, że skonfrontujemy to, co mówili podczas rozmowy, z faktami.
+[00:01:13.580 --> 00:01:23.220]   Konfrontujemy z pomocą moich redakcyjnych koleżanek i kolegów, specjalistów w swoich dziedzinach oraz polityków, którzy na co dzień zajmują się poruszanymi kwestiami.
+[00:01:23.220 --> 00:01:29.820]   Nadal nie jestem pewien, czy to wystarczy. Mimo wszystko postanowiliśmy, że pozostawimy to waszej ocenie.
+[00:01:30.120 --> 00:01:35.520]   A gdyby ktoś nie wiedział, kim są Wojciech Olszański i Marcin Osadowski, to śpieszą z krótkim wyjaśnieniem.
+[00:01:35.520 --> 00:01:42.780]   Mężczyźni w internecie znani są jako Jaszczur i Ludwiczek. Znani ze swoich kontrowersyjnych i agresywnych treści.
+[00:01:42.780 --> 00:01:52.640]   Koniec kurwa grzeczności, koniec łagodności. Teraz jest kurwa wojna, teraz kurwa wyciągamy długie noże.
+[00:01:52.840 --> 00:02:01.560]   Przy okazji są liderami partii Rodacy Kamraci, skrajnie prawicowej partii politycznej określanej jako nacjonalistyczna i neofaszystowska.
+[00:02:01.560 --> 00:02:19.440]   Olszański i Osadowski zdobyli rozpoznawalność dzięki transmisjom internetowym, w których komentowali wydarzenia polityczne w skrajnie agresywny sposób, używając wielu wulgaryzmów.
+[00:02:19.800 --> 00:02:25.320]   W przeszłości obaj byli skazywani za wypowiedzi uznane przez sąd za nawoływanie do nienawiści.
+[00:02:25.320 --> 00:02:41.900]   Prokuratura zarzuca im popełnienie 154 przestępstw. Między innymi publiczne pochwalanie przemocy z powodu przynależności politycznej, grożenie stosowaniem przemocy z powodu przynależności politycznej, czy publiczne znieważanie osób z powodu przynależności rasowej.
+[00:02:41.900 --> 00:02:48.920]   Nigdy z rzadami nie będzie w aliansach.
+[00:02:48.920 --> 00:02:57.980]   Z pi***lonym dokumencie, z pi***lonym nagłówkiem, z pi***lonym kursywą, z pi***lonym pieczątką, z pi***lonym podpisem, który widziałem.
+[00:02:57.980 --> 00:02:59.140]   Niosę pokój.
+[00:02:59.140 --> 00:03:01.020]   Niosę kur...
+[00:03:01.020 --> 00:03:02.540]   Pokój!
+[00:03:02.540 --> 00:03:03.420]   Rozmawiamy szczerze?
+[00:03:03.420 --> 00:03:12.680]   Szczerze, słuchaj. Powiem tak. Właśnie za szczerość opuściliśmy kilka dni temu kryminał, bo za szczerość zostaliśmy posadzeni.
+[00:03:12.680 --> 00:03:18.560]   My sobie nie wyobrażamy, żeby mówić nieszczerze, nawet jak się to niektórym bardzo nie podoba.
+[00:03:19.020 --> 00:03:29.180]   To czy wy jesteście genialnymi aktorami, czy jak wiele osób was określa, jesteście naprawdę wariatami?
+[00:03:29.180 --> 00:03:30.520]   Kto pierwszy odpowiada, Marcin?
+[00:03:30.520 --> 00:03:35.120]   Ja lubię bardzo często odbić płyćkę i zapytać, a jak ty nas oceniasz?
+[00:03:35.120 --> 00:03:36.820]   Jak ja was oceniam?
+[00:03:37.820 --> 00:03:42.740]   Nie ma problemu, mogę odpowiedzieć. Przez dwie godziny oglądania...
+[00:03:42.740 --> 00:03:49.460]   Oczywiście wyskakiwaliście mi wcześniej w internecie. Ja nie znałem aż tak dobrze całego waszego uniwersu.
+[00:03:49.460 --> 00:03:51.080]   My też nie znamy, nie przejmuj się tak.
+[00:03:51.080 --> 00:04:00.860]   I przez pierwsze trzydzieści minut było to bardzo zabawne. Po dwóch godzinach czułem się zmęczony.
+[00:04:00.860 --> 00:04:04.540]   Ja uważam, że jesteście świetnymi aktorami.
+[00:04:04.540 --> 00:04:06.740]   Czyli uważasz, że my to wszystko gramy?
+[00:04:06.740 --> 00:04:11.240]   Nie mówię, że wszystko, ale uważam, że jest w tym pewna teatralność.
+[00:04:11.240 --> 00:04:16.300]   Zresztą tutaj jeden w duecie ma aktorskie doświadczenie. Więc gracie czy nie?
+[00:04:16.300 --> 00:04:17.720]   Uważaj, powiem ci tak.
+[00:04:17.720 --> 00:04:22.540]   Przepraszam, że zapytam. Ja jestem stary facet, jestem starcem.
+[00:04:22.540 --> 00:04:26.680]   W kategoriach ZUS-owskim jestem już emerytem.
+[00:04:26.680 --> 00:04:31.000]   Może nie jestem zgrzybiałym starcem.
+[00:04:31.000 --> 00:04:37.220]   I że tak powiem jest kilka kobiet, które są w stanie to potwierdzić, że nie.
+[00:04:37.220 --> 00:04:39.560]   Ile masz lat, Dawid?
+[00:04:39.560 --> 00:04:40.400]   Dwadzieścia cztery.
+[00:04:40.400 --> 00:04:41.340]   Dwadzieścia cztery.
+[00:04:41.920 --> 00:04:42.780]   To powiem ci tak.
+[00:04:42.780 --> 00:04:45.780]   Przed tobą straszna przyszłość.
+[00:04:45.780 --> 00:04:52.500]   Ponieważ przyszłość próbują nam wykreować, zaaplikować złoczyńcy.
+[00:04:53.220 --> 00:04:59.740]   Którzy są nietykalni, są arbitrami, tak są przedstawiani masą.
+[00:04:59.740 --> 00:05:04.620]   I może by to nawet nie było takie złe, tylko to co oni proponują dla twojej przyszłości.
+[00:05:04.620 --> 00:05:11.200]   Pewien poeta, pewien poeta zawarł w bardzo pięknej pieśni.
+[00:05:11.400 --> 00:05:12.840]   Zaśpiewamy ci jedną zwrotkę.
+[00:05:12.840 --> 00:05:15.160]   Trzy, cztery.
+[00:05:15.680 --> 00:05:22.820]   Zamiast mięsa skóry, syny, każą ci robaki żreć.
+[00:05:22.820 --> 00:05:30.140]   Szczęściem mówią ci bydlacy, jest nic nie mieć i nic nie chcieć.
+[00:05:30.140 --> 00:05:37.700]   Gówno, żygi i zgnilizna w całej uniwali równo.
+[00:05:37.700 --> 00:05:41.340]   Gówno, żygi i zgnilizna.
+[00:05:41.340 --> 00:05:44.320]   Gówno, żygi i zgnilizna.
+[00:05:44.320 --> 00:05:45.780]   I teraz odpowiadam ci na pytanie.
+[00:05:45.780 --> 00:05:46.300]   To jest ta przyszłość.
+[00:05:46.300 --> 00:05:50.120]   Aktor to jest, przede wszystkim ja nie jestem aktorem, od tego trzeba zacząć.
+[00:05:50.120 --> 00:05:53.140]   Ja mam skończoną wydział aktorski też.
+[00:05:53.140 --> 00:05:56.580]   I to jest zupełnie inna dyscyplina życia.
+[00:05:56.580 --> 00:05:58.200]   Aktor musi grać.
+[00:05:58.200 --> 00:05:59.460]   Ja nie muszę grać.
+[00:05:59.460 --> 00:06:01.160]   Marcin też nie ma z tym problemu.
+[00:06:01.160 --> 00:06:03.940]   Natomiast jesteśmy kpijarzami.
+[00:06:03.940 --> 00:06:07.000]   Jesteśmy, jak to powiedział Nietzsche, szydercami.
+[00:06:07.700 --> 00:06:11.720]   Jesteśmy miejscem, gdzie błazen z mędrcem, z hacki sobie czynią.
+[00:06:11.720 --> 00:06:14.640]   Tego wszystkiego jesteśmy i chcemy być skrzynią.
+[00:06:14.640 --> 00:06:18.860]   Niesie nas autentyczny w k*** na to, co się dzieje.
+[00:06:18.860 --> 00:06:24.520]   Na bezczelność i cynizm ludzi, którzy tworzą nam prawo.
+[00:06:24.520 --> 00:06:26.520]   Bo gdyby...
+[00:06:26.520 --> 00:06:29.060]   Panowie, szanowni państwo, zróbcie sobie taki test.
+[00:06:29.060 --> 00:06:32.120]   Wyobraźcie sobie, że prezydentem został Trzaskowski.
+[00:06:33.000 --> 00:06:33.560]   Powiem tak.
+[00:06:33.560 --> 00:06:36.800]   Na pewno Studio Zero by nie funkcjonowało.
+[00:06:36.800 --> 00:06:37.820]   Byłoby zamknięte.
+[00:06:37.820 --> 00:06:40.280]   Ostatnio Rafał Trzaskowski chwalił kanał Zero na swoim komuzie.
+[00:06:40.280 --> 00:06:41.140]   A, bo on wie.
+[00:06:41.140 --> 00:06:46.160]   To jest kotek puszysty, który wie, gdzie mleczko stoi, w jakiej miseczce i tak dalej.
+[00:06:46.160 --> 00:06:51.240]   Nie dalej, jak pół roku przed Marszem Niepodległości mówił, że pewnie by wziął nawet w nim udział.
+[00:06:51.400 --> 00:06:52.520]   Wie co mówić.
+[00:06:52.520 --> 00:06:56.540]   Ma świetne, szorosowskie wyszkolenie, doświadczenie.
+[00:06:56.540 --> 00:06:58.540]   Wiedzą, kiedy, w jakim momencie mówić.
+[00:06:58.540 --> 00:07:05.640]   My nawet mamy w pewnym momencie takie zarzuty pojawiają się, że no to wy mówicie serio czy na żarty.
+[00:07:05.640 --> 00:07:11.400]   Ale przecież wystarczy popatrzeć na niejedno wystąpienie polityków, którzy wychodzą zupełnie na serio.
+[00:07:11.400 --> 00:07:12.620]   Mówią o poważnych rzeczach.
+[00:07:13.200 --> 00:07:16.560]   I w pewnym momencie wplatają w to dygresję, kpinę.
+[00:07:16.560 --> 00:07:24.520]   Przecież to, co mówią w formie dygresji, czy kpiny, czy żartu właśnie, czy przywołania dowcipu, no nie jest mówione literalnie na poważnie.
+[00:07:24.520 --> 00:07:26.280]   Ale całość jest mówiona na poważnie.
+[00:07:26.280 --> 00:07:32.280]   Obraliśmy formę, nie dlatego, że sobie wykoncepowaliśmy między kuchnią a sraczem, że tacy będziemy.
+[00:07:32.280 --> 00:07:35.140]   My tacy jesteśmy, ale niesie nas idea.
+[00:07:35.140 --> 00:07:39.560]   I w sądzie, bo tych procesów mamy kilkadziesiąt, w sądzie mówimy.
+[00:07:40.260 --> 00:07:47.280]   Mówimy o rzeczach poważnych, mówimy o rzeczach istotnych w takiej konwencji, bo tacy jesteśmy.
+[00:07:47.280 --> 00:07:55.520]   Natomiast to, czy kogoś obrażamy, czy popełniamy czyny przestępcze, to już jest pieprzona interpretacja pieprzonych prokuratorów.
+[00:07:55.520 --> 00:07:59.280]   No dlatego o to też pytałem, czy bierzecie za to odpowiedzialność.
+[00:07:59.280 --> 00:08:04.180]   No jak podaje TVN, no odpowiadacie za 154 przestępstw.
+[00:08:04.180 --> 00:08:04.720]   No właśnie.
+[00:08:04.720 --> 00:08:05.180]   Na razie.
+[00:08:05.180 --> 00:08:07.120]   Nie, nie, to jest język TVN-u.
+[00:08:07.120 --> 00:08:07.440]   Tak jest.
+[00:08:07.440 --> 00:08:10.020]   A, to nie powiesz, wstrzymaj się.
+[00:08:11.220 --> 00:08:11.820]   Uzasadnienie.
+[00:08:11.820 --> 00:08:21.680]   To, że tu przyszliśmy, przyszliśmy dlatego, że uważamy, że taki kanał zero to jest wyłom w tak zwanym monopolu medialnym.
+[00:08:21.680 --> 00:08:22.460]   Ścieku medialnego.
+[00:08:22.460 --> 00:08:33.600]   Ścieku medialnego i życzymy wam wszystkiego najlepszego, chociaż mamy świadomość, że przecież nie jesteśmy waszymi ulubieńcami i w pewnym momencie nawet potrafiliście po nas pojechać.
+[00:08:33.720 --> 00:08:44.700]   My też mamy pewne zastrzeżenia, ale takich kanałów powinno być zero, jeden, dwa, trzy, jak najwięcej, żeby monopol tej propagandy został rozbity.
+[00:08:45.140 --> 00:09:01.000]   Mając świadomość, mając świadomość, że uzależnieni jesteście od różnych znajomości, od tej przestrzeni, w której żyjecie, to ciężko na przykład starego znajomego, który okazuje się politycznym idiotą, odrzucić od siebie.
+[00:09:01.480 --> 00:09:18.160]   Przestać się z nim kolegować, nawet dać mu w mordę. My z Osadowskim jesteśmy w stanie i obrazić, i dać w mordę, bo jak mówi nasze jedno z kamradzkich przysłów, choćbyśmy ciemną szli doliną, nie odpuścimy skur.
+[00:09:18.160 --> 00:09:23.840]   Kto ogólnie jest obecnie wrogiem Polski? Przed kim my się według was musimy bronić?
+[00:09:23.840 --> 00:09:25.780]   Wrog się definiuje sam.
+[00:09:26.420 --> 00:09:43.100]   Czynami swoim działaniem. Ale też takie pytanie stawiają prokuratorzy i mówią, no ale to kto był tym wrogiem ojczyzny? Ale to historia pokazuje. Wrogami ojczyzny byli Ruscy, byli Niemcy, Szwedzi, Szwedzi, Czesi, Brytyjczycy, Franczy.
+[00:09:43.100 --> 00:09:46.500]   A nawet Słowacy. Wiesz, że Słowacy nas napadli 1 września 1939.
+[00:09:46.500 --> 00:09:51.760]   Węgrzy, Austriacy, którzy nas rozebrali. Akurat mamy nieprzyjemną historię, jeśli chodzi o...
+[00:09:51.760 --> 00:09:56.020]   Tylko Bałtyk jest suwerenny i przyjazny Polakom, jak mówiła moja żona.
+[00:09:56.020 --> 00:09:58.960]   Historia pokazywała, że wrogów mieliśmy wokół siebie.
+[00:09:58.960 --> 00:10:01.240]   A dzielu. Hasło. Dziś kto jest naszym wrogiem.
+[00:10:01.240 --> 00:10:03.340]   Czemu nie mam hasła? Jak to zrobiłeś? Nie wiem.
+[00:10:03.340 --> 00:10:05.420]   Śmierć wrogą ojczyzny. U Wojciecha poproszę pokazać.
+[00:10:05.420 --> 00:10:07.180]   Stare hasło siedemnastowieczne.
+[00:10:07.180 --> 00:10:10.180]   Używane przez wojskowych. Przez uszarie.
+[00:10:10.180 --> 00:10:12.700]   Przecież, ale wojskowych współcześnie również. Też tak.
+[00:10:12.700 --> 00:10:19.460]   Tak. Śmierć wrogą ojczyzny. Mówimy o wrogach ojczyzny. A powiedz mi, co mam im życzyć?
+[00:10:19.460 --> 00:10:22.400]   Zdrowia, szczęścia, pomyślności.
+[00:10:22.400 --> 00:10:24.400]   Co byś wrogą ojczyzny życzył?
+[00:10:24.400 --> 00:10:28.340]   Czego macie życzyć? Ja pytam na razie, kto jest naszym wrogiem dziś obecnie?
+[00:10:28.340 --> 00:10:31.120]   Mam do tego prawo. To jest mój pogląd polityczny.
+[00:10:31.120 --> 00:10:31.960]   Oczywiście.
+[00:10:31.960 --> 00:10:38.840]   Wrogiem ojczyzny. Wrogiem ojczyzny. Czyli, bo ja odróżniam państwo od ojczyzny.
+[00:10:38.840 --> 00:10:46.020]   Państwo to niekoniecznie coś, co jest w interesie narodu polskiego. Ojczyzna zaś tak.
+[00:10:46.020 --> 00:10:55.560]   Wrogiem ojczyzny Polski jest w tej chwili Unia Europejska, która funkcjonuje na zasadzie traktatu lizbońskiego.
+[00:10:56.600 --> 00:11:00.120]   Oparta jest na fundamencie Spinellego.
+[00:11:00.120 --> 00:11:01.420]   Antonielo Spinellego.
+[00:11:01.420 --> 00:11:01.680]   Tak.
+[00:11:01.680 --> 00:11:03.740]   Altiero, przepraszam.
+[00:11:03.740 --> 00:11:08.960]   I jeśli szukacie przykładów, to wam powiem. Bardzo prosty przykład.
+[00:11:10.400 --> 00:11:27.440]   Unia Europejska chce zlikwidować dwutlenek węgla, który jest gazem życia i podatki, które będziemy płacić za ten dwutlenek węgla mają wpędzić nas i przyszłe nasze pokolenia w biedę, w nędzę.
+[00:11:29.060 --> 00:11:38.320]   Oni są dlatego wrogiem, że wymyślili sobie dla Polaków miejsce w kierdlu nędzy, bidy, bidy, w kierdlu nędzy i bidy.
+[00:11:38.320 --> 00:11:46.880]   Te wszystkie zielone łady, czy te zielone zwieracze, jak się na to mówi poprawnie, te wszystkie podatki, te wszystkie wymysły mają nas Polaków.
+[00:11:46.880 --> 00:11:54.080]   A nawet likwidacja naszych elektrowni, która idzie gładko, powoduje, że staniemy się nędzarzami.
+[00:11:54.080 --> 00:12:06.700]   Przecież kretyństwa prawne za chwilę nie będziemy mogli domów budować, bo już jest taki chyba przepis, że nie wybudujesz domu, jeśli co najmniej w odgłości półtora kilometra nie ma szkoły.
+[00:12:07.660 --> 00:12:18.520]   Oni, te 15-minutowe miasta, o których pieprzy ten cudowny i idealny zięć, jak to mówiła moja żona o nim, że Trzaskowski wypełnia przepis na idealnego zięcia.
+[00:12:18.520 --> 00:12:26.280]   Jest taki śliczny i milutki, no taki przytulasek taki jest, ale ten człowiek, ten człowiek jest szkodnikiem polskiego interesu narodowego.
+[00:12:26.280 --> 00:12:36.780]   On chce zlikwidować wszystko, co jest suwerenne, co daje nam suwerenność, ponieważ taki dostał, takie polecenie dostał z Unii Europejskiej.
+[00:12:36.780 --> 00:12:39.680]   No dobrze, czyli Unia Europejska jest naszym wrogiem.
+[00:12:39.680 --> 00:12:40.560]   Śmiertelnym.
+[00:12:40.560 --> 00:12:41.620]   Śmiertelnym.
+[00:12:41.620 --> 00:12:43.100]   Nawet śmiertelnym dla nas.
+[00:12:43.100 --> 00:12:47.220]   Śmiertelnym dla nas, dla naszych przyszłych pokoleń i dla twojego życia, Dawid.
+[00:12:47.220 --> 00:13:04.720]   Ponieważ całe życie będziesz ścigał jakiś dobrobyt, jakąś zamożność będziesz ścigał i ciągle będziesz haltowany jakimś kretyńskim przepisem, który ci nie pozwoli w tej zamożności się wygodnie rozsiąść.
+[00:13:05.900 --> 00:13:09.100]   Albo, jak się im uda, to oni by przecież marzyli.
+[00:13:09.100 --> 00:13:12.620]   Dlaczego Polacy jeszcze nie walczą na Ukrainie z ąkimi?
+[00:13:12.620 --> 00:13:16.220]   No dlaczego wy jesteście takiego małego serca?
+[00:13:16.220 --> 00:13:18.960]   Przecież jak zdobędą Ukrainę, to przyjdą po was.
+[00:13:18.960 --> 00:13:20.940]   No to nie ma żadnej wątpliwości.
+[00:13:20.940 --> 00:13:25.040]   Czy Unia Europejska wpędza nas, wpycha nas w nędzę?
+[00:13:25.140 --> 00:13:29.060]   No jeżeli spojrzemy historycznie, to wręcz przeciwnie.
+[00:13:29.060 --> 00:13:40.120]   Dlatego, że za czasów naszej przynależności do Unii Europejskiej, zamożność Polski jako państwa, także zamożność Polaków drastycznie wzrosła.
+[00:13:40.340 --> 00:13:54.860]   Ja podobnie jak pan Olszański pamiętam lata osiemdziesiąte, pamiętam lata dziewięćdziesiąte, czyli czasy kiedy byliśmy Polską Ludową, a potem nie należyliśmy już jako suwerenna RP do Unii Europejskiej.
+[00:13:55.540 --> 00:14:02.580]   Czas i rzeczywistość i Polska znacznie biedniejsza niż Polska obecna.
+[00:14:02.580 --> 00:14:17.540]   To znaczy my dzięki Unii Europejskiej, oczywiście nie tylko, bo tutaj przede wszystkim trzeba powiedzieć, że dzięki pracowitości Polaków, no ale także dzięki Unii Europejskiej zaleczyliśmy niesamowity wzrost gospodarczy.
+[00:14:17.640 --> 00:14:29.560]   No to jest złoty wiek Polski. No i cóż, to jest złoty wiek w czasach, kiedy jesteśmy w Unii Europejskiej, więc ja bym jakoś tam łączył te dwa fakty.
+[00:14:29.560 --> 00:14:46.820]   Natomiast faktem jest też, że Unia Europejska staje się coraz bardziej projektem ideologicznym, coraz mniej nastawionym na właśnie korzyści gospodarcze i wpada w związku z tym na coraz więcej głupich pomysłów,
+[00:14:46.820 --> 00:14:59.060]   które to pomysły trzeba zwalczać, trzeba hamować. Na przykład w ten sposób, żeby prawica suwerennościowa w krajach europejskich wygrała wybory do Europarlamentu,
+[00:14:59.060 --> 00:15:11.580]   to wtedy wiele tych głupich pomysłów będzie można zahamować. A do takich pomysłów zaliczam te dziwne przepisy, czy niektóre punkty zielonego ładu.
+[00:15:11.580 --> 00:15:23.500]   To są przepisy, to jest wizja, która niszczy europejski przemysł. Powoduje, że Europa jest po prostu coraz słabsza gospodarczo pod względem innowacyjności.
+[00:15:23.660 --> 00:15:40.740]   Jesteśmy daleko za Stanami Zjednoczonymi, niestety daleko za Chinami i Unię Europejską można poprawić, ale nie niszczyłbym jej, nie wychodziłbym z niej, bo nie jest naszym wrogiem,
+[00:15:40.820 --> 00:15:48.860]   tylko trzeba po prostu narzucić jej cele, które będą nam bardziej odpowiadały. A to jest do zrobienia.
+[00:15:49.160 --> 00:15:50.640]   A Rosja jest naszym wrogiem?
+[00:15:50.640 --> 00:16:01.880]   Rosja jest naszym potężnym sąsiadem. Czy nam się to podoba, czy nie. I interesy z tą Rosją i dzieje sąsiedztwa z Rosją są bardzo, że tak powiem, dramatyczne w swoim wymiarze.
+[00:16:03.640 --> 00:16:14.860]   Z ogromnymi konsekwencjami dla Polaków. Są też jasne punkty tej historii. Nie będę teraz o nich mówił, ale jest idiotą ten, kto się chce bić z sąsiadem.
+[00:16:14.860 --> 00:16:27.800]   Jeżeli się chcemy bić z sąsiadem, to czynimy z własnego życia piekło, bo albo my zostaniemy raz zaskoczeni, albo on zostanie zaskoczony, albo my będziemy się mścić, albo on się będzie mścić.
+[00:16:27.800 --> 00:16:36.880]   Tylko to Rosja po pierwsze zaatakowała swojego sąsiada i to nie tylko Ukrainę. Przecież Rosja zaatakowała też w roku 2008 Gruzję.
+[00:16:36.880 --> 00:16:51.640]   I do tej pory Rosja okupuje część gruzińskiego terytorium. Ok, formalnie to było uznanie niepodległości Abchazji i Osetii, ale kto pilnuje bezpieczeństwa na części formalnie gruzińskiego terytorium?
+[00:16:51.780 --> 00:17:02.720]   Rosjanie i rosyjskie służby, więc niezależnie od tego jak to zostało ubrane, w jakie słowa języka prawniczego, to tak naprawdę Rosja okupuje część terytorium Gruzji,
+[00:17:02.720 --> 00:17:08.360]   okupuje teraz część terytorium Ukrainy, więc to Rosja atakuje swoich sąsiadów.
+[00:17:08.360 --> 00:17:16.720]   I w strategii bezpieczeństwa i Polski i NATO, nie ja to wymyślałam, to są oficjalne dokumenty, Rosja jest zagrożeniem.
+[00:17:16.720 --> 00:17:26.820]   Tam może się nie tyle wprost używa słowa wróg, co mówi się o zagrożeniu i Rosja została uznana nie za partnera, tylko za zagrożenie właśnie ze względu na swoją politykę.
+[00:17:26.820 --> 00:17:33.640]   Więc my sobie możemy wybierać, że my nie chcemy się bić z sąsiadem, że my chcemy z tym sąsiadem robić interesy.
+[00:17:33.920 --> 00:17:42.520]   I przecież długo tak Zachód wybierał i te interesy z Rosją były robione i to potężne interesy z Rosją robiły i Niemcy, trochę Stany Zjednoczone.
+[00:17:42.520 --> 00:17:44.740]   My też z Rosją robiliśmy interesy.
+[00:17:44.740 --> 00:17:56.180]   Rosja kupowała od nas, my kupowaliśmy od Rosji, ale to wcale nie uchroniło nas przed tym, że Rosja zaatakowała swojego sąsiada i pręży swoje muskuły i rozkręca swój przemysł zbrojeniowy.
+[00:17:56.180 --> 00:18:01.960]   I straszy nas cały czas swoimi działaniami, że może pójść dalej, że może zaatakować kolejne państwa.
+[00:18:01.960 --> 00:18:06.380]   Ja nie mówię, że Władimir Putin mówi wprost, że uwaga, bo wkrótce zaatakuje Polskę.
+[00:18:06.380 --> 00:18:08.800]   No nie bądźmy naiwni, nikt tego nie mówi.
+[00:18:08.800 --> 00:18:13.620]   Chodzi o obserwacje rosyjskiej polityki, rosyjskich działań także na rynku wewnętrznym.
+[00:18:13.620 --> 00:18:19.220]   Nic nie wskazuje na to, żeby Rosja chciała zakończyć wojnę i żeby Rosja chciała się zatrzymać na Ukrainie.
+[00:18:19.220 --> 00:18:29.620]   I historia pokazuje, że nawet jeżeli my Rosji ustępujemy, czyli załóżmy, że ustąpimy Rosji i powiemy ok, Ukraina będzie państwem neutralnym, nigdy nie przystąpi do NATO,
+[00:18:29.620 --> 00:18:35.700]   to cała ta historia, którą mamy z Rosją pokazuje, że jak damy palec, to Rosja weźmie rękę.
+[00:18:35.700 --> 00:18:42.860]   Więc problem z takim myśleniem jest taki, że to nie my wybieramy, czy Rosja jest naszym potężnym sąsiadem, czy jest naszym wrogiem.
+[00:18:42.860 --> 00:18:55.060]   Tylko to Rosja wybiera i to Rosja atakuje, a atakuje nas też na polu informacyjnym i na tym polu informacyjnym czy cybernetycznym my już jesteśmy na wojnie z Rosją.
+[00:18:55.060 --> 00:19:01.480]   Czy jeżeli weźmiemy pod uwagę te wszystkie akcje dywersyjne, czy tak robi potężny sąsiad, który chce z nami żyć w pokoju?
+[00:19:01.480 --> 00:19:06.980]   Oczywiście, że tak nie robi. Tak robi sąsiad, który zaczepia, prowokuje i sprawdza.
+[00:19:07.280 --> 00:19:13.180]   I co? My mamy nie odpowiadać, mamy cały czas uznawać, że Rosja jest naszym potężnym sąsiadem i cały czas go bardzo lubimy,
+[00:19:13.180 --> 00:19:15.840]   mimo, że ten sąsiad nam robi krzywdę? No nie.
+[00:19:15.840 --> 00:19:19.620]   A to z Unią Europejską mamy się bić? No kraje Unii Europejskiej też są bić.
+[00:19:19.620 --> 00:19:20.600]   Mamy się wyzwolić.
+[00:19:20.600 --> 00:19:27.580]   Ale w obecnym układzie geopolitycznym Rosja jest naszym wrogiem, tylko stała się naszym wrogiem z względu na cały zespół działań.
+[00:19:27.580 --> 00:19:29.400]   Na razie z Rosją wojny nie prowadzimy?
+[00:19:29.400 --> 00:19:36.860]   Na szczęście. Ludzi się dzieli. Najpierw wprowadza się ich w stan, w której są jak zwierzęta w klatce, które walczą o przetrwanie.
+[00:19:37.600 --> 00:19:39.120]   Potem wprowadza się ich...
+[00:19:39.120 --> 00:19:41.220]   Ale to nie bierzecie też udziału trochę w tym podziale?
+[00:19:41.220 --> 00:19:44.540]   My się tylko bronimy, Dawid. Powiem ci tak.
+[00:19:44.540 --> 00:19:53.240]   A poza tym bardzo często mówimy o tym, żeby nie atakować ludzi, dlatego, że coś mają więcej wypracowali, ciężko pracują, tylko zacząć to doceniać.
+[00:19:53.240 --> 00:20:05.580]   Wiecie, czemu zapytałem was o to, czy Rosja jest również naszym wrogiem? No powiedzieliście, że geopolitycznym... Tak. No bo chciałem przejść i zapytać was, czy wy jesteście ruskimi agentami.
+[00:20:05.640 --> 00:20:10.860]   A tak lekko ci to wychodzi z ust? Ty nie jesteś amerykańskim agentem?
+[00:20:10.860 --> 00:20:20.700]   Dawid, gdybyśmy byli agentami rosyjskimi, ABW by nas już dawno zawinęło, a mieliśmy... Odwiedzało nas ABW, inwigilowało nas i inwigiluje dalej. Pozdrawiamy chłopaków z ABW.
+[00:20:20.960 --> 00:20:29.680]   Bo jak rozmawialiśmy, umawialiśmy się na wywiad, to też nawet o tym napomnieliście. No tych zarzutów wobec tego, że wy siejecie jakąś rosyjską propagandę...
+[00:20:29.680 --> 00:20:34.160]   Ale jaką właśnie? Jest bardzo... Ale konkret, Dawid, bardzo dobre... Jaką konkretną propagandę?
+[00:20:34.160 --> 00:20:37.600]   Chodzi między innymi o wasze podejście w stosunku do Ukrainy.
+[00:20:37.600 --> 00:20:38.900]   Jakiej Ukrainy, Dawid?
+[00:20:38.900 --> 00:20:40.040]   Tej banderowskiej?
+[00:20:40.040 --> 00:21:00.940]   Czy jest państwo Ukraina, czy jest banderowskie państwo Ukraina, gdzie Bandera został wyniesiony do Konstytucji na pomniki, otoczony ochroną, a jego generałowie, którzy osobiście mordowali kobiety w ciąży, jak Suchewicz, bo są znane przypadki, jak Suchewicz strzelał kobiecie w ósmym miesiącu ciąży w brzuch.
+[00:21:02.400 --> 00:21:15.500]   I na tym etosie mordowania Polaków, na etosie hasła, które napisał Bandera, wymordujcie wszystkich Polaków, tak żeby każdy metr kwadratowy ziemi ukraińskiej był od nich wolny.
+[00:21:15.500 --> 00:21:28.340]   Czy ty uważasz, że to nie jest schizofrenia, że my jesteśmy sojusznikiem państwa, które opiera się na myśli antypolskiej, ponieważ dla Bandery największym wrogiem byli Polacy.
+[00:21:28.340 --> 00:21:49.300]   Pierwszy prezydent Ukrainy, Krawczuk, w 1991 roku, kiedy Polska uznała suwerenność Ukrainy, powiedział tak, mamy wobec Polski dług, musimy wyjaśnić historię, która polega na tym, że wymagowaliśmy od 1939 roku do 1947, czy tam 2006, pół miliona Polaków.
+[00:21:49.300 --> 00:22:02.100]   To jest zdanie pierwszego prezydenta Ukrainy. Dobrze, zostawmy te pół miliona, skupmy się na rzezi wołyńskiej, na 250 tysiącach pomordowanych ludzi w tym okresie drugowojennym.
+[00:22:02.100 --> 00:22:19.140]   Skupmy się na SS Galicjen, którą kultywatorzy tej tradycji paradowali przed prezydentem Poroszenką. Wznosili gest hitlerowski do góry, rękę do góry wznosili i krzyczeli Sieg Heil, czyli Heilowali, a Poroszenko oddawał im hołdy.
+[00:22:19.140 --> 00:22:30.120]   Poroszenko wydobył tych mordowców Polaków z nicości, z podziemia, przyznawał im stopnie, medale i my mamy być sojusznikiem takiego państwa.
+[00:22:30.120 --> 00:22:49.080]   To jest taka wyłącznie propagandowa wersja rzeczywistości. Ona nie ma nic wspólnego z tym, co dzieje się naprawdę, no bo Ukraina nie jest żadnym państwem banderowskim, a Ukraina też na pewno nie jest państwem, którego główną ideologią jest dzisiaj mordowanie Polaków.
+[00:22:49.140 --> 00:22:58.940]   Bo tak chyba można rozumieć ten wywód. Zresztą Szuchewicz, a nie Suchewicz, jak już się o czymś mówi, to nazwiska przynajmniej wypada znać.
+[00:22:58.940 --> 00:23:16.020]   Ukraina rzeczywiście jest państwem, które szuka dzisiaj swoich bohaterów i przynajmniej część tych elit znajduje tych bohaterów w UPA, w Organizacji Ukraińskich Nacjonalistów, która oczywiście dla nas jest organizacją przede wszystkim, która mordowała Polaków na Wołynie.
+[00:23:16.100 --> 00:23:23.620]   To są fakty i przeciwko temu powinniśmy protestować i protestujemy. Natomiast organizacja ukraińskich nacjonalistów walczyła też z Rosją.
+[00:23:23.620 --> 00:23:32.740]   To jest główny powód, dla którego dzisiaj rzeczywiście na Ukrainie stają pomniki i bandery, a nie to, że UPA mordowało Polaków.
+[00:23:32.740 --> 00:23:40.620]   To oczywiście nie jest dobrze, że na Ukrainie tak jest i nie wszystkie środowiska uważają, że powinno się powoływać na banderę i zdecydowanie nie powinno.
+[00:23:40.620 --> 00:23:47.100]   I powinniśmy też z tym walczyć wszelkimi możliwymi dyplomatycznymi metodami.
+[00:23:47.100 --> 00:23:53.780]   Natomiast to nie jest tak, że na Ukrainie dzisiaj czci się banderę właśnie dlatego, że mordował Polaków.
+[00:23:53.780 --> 00:23:55.060]   Zdecydowanie nie.
+[00:23:55.260 --> 00:24:12.380]   Chciałbym, żeby Ukraina była naszym sąsiadem, ale jako 66-letni starzec. Mówię, nie ma takiej możliwości, żebym kiedykolwiek usiadł do stołu z neolerowcem i wysłuchiwał jego argumentów, bo on nie ma argumentów.
+[00:24:12.380 --> 00:24:22.460]   Tak jak nie usiądę do stołu z hitlerowcem, jak nie usiądę do stołu z rewizjonistą niemieckim. Dlatego alternatywa dla Niemiec to dobra partia jest, bo jest antyunijna.
+[00:24:22.460 --> 00:24:23.460]   Dla Niemców dobra.
+[00:24:23.460 --> 00:24:30.040]   Antyunijna dla nas też. Natomiast my nie wiemy jaka ona jest w stosunku do końca, w stosunku do Polaków. Może jest...
+[00:24:30.040 --> 00:24:31.720]   No często ma negatywne.
+[00:24:31.940 --> 00:24:34.620]   No więc będziemy się napieprzać po mordach pięściami.
+[00:24:34.620 --> 00:24:36.020]   Jak do tego dojdzie.
+[00:24:36.020 --> 00:24:39.160]   Jak do tego dojdzie. Ponieważ będziemy bronić polskości.
+[00:24:39.160 --> 00:24:41.660]   Ale to czy dzisiejsza Ukraina...
+[00:24:41.660 --> 00:24:42.900]   Jaka? Banderowska?
+[00:24:42.900 --> 00:25:01.500]   Nie. Ukraina. Po prostu Ukraina. Prezydent Załęski i tak dalej. Czy my, czy to dobrze, że im pomagamy? Nie mówię o wysyłaniu Polaków, bo z tym też pewnie większość społeczeństwa się nie zgadza, żeby nawet nie wyobraża sobie takiego scenariusza, żeby polscy żołnierze mieli iść walczyć na Ukrainę.
+[00:25:01.500 --> 00:25:02.420]   A wiesz, dlaczego tak jest?
+[00:25:02.420 --> 00:25:03.980]   Bo nie ma zgody po prostu.
+[00:25:03.980 --> 00:25:21.840]   Bo te trupy, te trupy pomordowane w okrutny sposób na Wołyniu, niepogrzebane, leżące pod asfaltami, pod drogami, po polach, po lasach, te jak archeolodzy zrobili jakieś wykupalisko w jakiejś wsi i wyjęli 63 czaszki małych dzieci, gdzie jeszcze warkoczyki były przyczepione do tych czaszek.
+[00:25:21.840 --> 00:25:31.540]   Tak. To są nasi aniołowie stróżowie, że twoi rówieśnicy nie gniją i nie gubią flaków, rozumiesz, gdzieś tam nad niepem.
+[00:25:31.540 --> 00:25:33.480]   Myślę, że też społeczeństwo po prostu...
+[00:25:33.480 --> 00:25:35.700]   Bo wie, jeszcze wie. Jeszcze wie.
+[00:25:35.700 --> 00:25:38.480]   To powiedzcie mi, czy to dobrze, że pomagamy Ukrainie banderowskiej?
+[00:25:38.480 --> 00:25:39.080]   Dlaczego źle?
+[00:25:39.080 --> 00:25:42.480]   Dlatego, że my jesteśmy głównym płatnikiem tej awantury.
+[00:25:43.360 --> 00:25:57.640]   Zaciągamy kredyty, jak to powiedział Sikorski. Dajemy 100 milionów dolarów i takim głosem, wiesz, my damy 100 milionów dolarów, kupimy sprzęt i oddamy go Ukrainie. I co nam zrobicie? No, słuchaj.
+[00:25:57.640 --> 00:26:05.020]   A przed tym oddaliśmy ogromne wyposażenie. Wojsko i żołnierze mówią, właśnie, za darmo. Amerykanie tego nie zrobili za darmo.
+[00:26:05.020 --> 00:26:06.620]   Przecież nic za darmo nie dali.
+[00:26:06.640 --> 00:26:12.680]   Oni wydali 5 miliardów dolarów, powiedziała to Victoria Nuland, na zrobienie Majdanu. No więc to jest pierwsza rzecz.
+[00:26:12.680 --> 00:26:31.980]   Druga sprawa. Oddaliśmy mnóstwo sprzętu i to, o czym mówią wojskowi, chociaż nie mówią tego wprost. Zdarza nam się na przykład spotkać czasami ludzie. Myśmy oddawali sprzęt, który służy zabezpieczenia, nowy, z magazynów, a nie starocie. Inni oddawali starocie, uzupełniali to tym, co mieli. Myśmy zostali bezbronni.
+[00:26:31.980 --> 00:26:44.900]   To jest pytanie, na które niekoniecznie generał musi odpowiadać. Po prostu wystarczy wrzucić do Wikipedii i przeczytać fakty. A fakty są takie, że wysyłaliśmy oczywiście bardzo wiele platform. W pierwszej kolejności były to post-sowieckie czołgi rodziny T-72.
+[00:26:44.900 --> 00:26:56.820]   Nie spotkałem żadnego z pancerniaków, który by ze łzami w oczach oddawał te czołgi, bo w ich miejsce przyszły M1, A2, SEP-3, najnowsze wersji, które już w pierwszym Brygadzie Pancernej tutaj stacjonują.
+[00:26:56.820 --> 00:27:09.140]   No i zresztą była okazja w kanale Zero jej zobaczyć. Czołgi K2, które są bardzo lubiane przez załogi, więc to zwyczajnie nie jest prawda. Jeżeli chodzi o artylerię, oczywiście wysyłaliśmy również bardzo dużo starszych platform.
+[00:27:10.140 --> 00:27:22.780]   Bojowe wozy piechoty, których trzydziestoletnia służba dawno była przekroczona i również w 15 Brygadzie, bo z tego, co miałem właśnie 15, dostaję teraz nowe Borsuki, też tam chyba nikt za nimi nie zatęski.
+[00:27:22.780 --> 00:27:30.620]   Nasze MiG-29 nie są samolotami porównywalnymi nawet ze F-16, czy już nie mówiąc o F-35.
+[00:27:30.620 --> 00:27:38.980]   Dla porównania Amerykanie wysyłali tam najnowsze systemy przeciwlotnicze Patriot, swoje rakiety HIMARS i ATAKAMS.
+[00:27:40.140 --> 00:27:49.440]   Holendrzy wysyłali tam F-16, Brytyjczycy stą szadoły, więc taka informacja jest zwyczajnie nieprawdziwa, a narracyjnie szkodliwa.
+[00:27:49.440 --> 00:28:00.400]   Czy gdybyśmy jakoś lepiej to zaplanowali, czy gdyby, trochę rozmawiamy o tej alternatywnej rzeczywistości, inni politycy rządzili w tym kraju, lepiej to zaplanowali.
+[00:28:01.160 --> 00:28:10.460]   Gdybyśmy mieli też środki, wynegocjowali sobie przy okazji jakąś rekompensatę korzyści, czy powinniśmy wtedy pomagać Ukrainie?
+[00:28:10.460 --> 00:28:13.760]   Nie. Dopóki, dopóki stoją na Ukrainie.
+[00:28:13.760 --> 00:28:15.760]   Dopóki byłby temat banderoski nie.
+[00:28:15.760 --> 00:28:17.760]   Stoją pomniki Bandery.
+[00:28:17.760 --> 00:28:20.760]   Bandera na Ukrainie nam przeszkadza, a Stalin w Rosji nie.
+[00:28:20.760 --> 00:28:26.460]   Oficjalnych danych nie ma, ale w Rosji stoi ponad 100 pomników Stalina.
+[00:28:26.460 --> 00:28:33.060]   Według niektórych szacunków nawet 120 i ponad 90 z tych pomników powstało już za rządów Władimira Putina.
+[00:28:33.060 --> 00:28:40.060]   To nie jest przypadek, to jest absolutnie świadoma polityka i po pierwsze, chodzi o wymazywanie ciemnych kart z historii Rosji.
+[00:28:40.060 --> 00:28:42.060]   Ciemnych kart, czyli represji.
+[00:28:42.060 --> 00:28:47.060]   I przypominania o wielkich zwycięstwach, czyli zwycięstwie Stalina w II wojnie światowej.
+[00:28:47.060 --> 00:28:51.060]   No i w rezultacie Rosjanie nie widzą w Stalinie zbrodniarza, w ogóle nie.
+[00:28:51.060 --> 00:28:56.060]   Tylko widzą w nim wielkiego przywódcę, który nawet jeśli ma na sumieniu ofiary,
+[00:28:56.060 --> 00:29:03.060]   Nad tym, że mówimy o milionach ofiar nikt się nie skupia, no to te ofiary są usprawiedliwione, bo cel był wyższy.
+[00:29:03.060 --> 00:29:08.060]   To tak dla pełnego obrazu historii pisanej na wschód od naszych granic.
+[00:29:08.060 --> 00:29:14.060]   To jest ideologia banderowska. To państwo, które teraz jest, jest państwem neobanderowskim,
+[00:29:14.060 --> 00:29:18.060]   tak jak Niemcy by się stały, mogłyby się stać państwem neohitlerowskim.
+[00:29:18.060 --> 00:29:22.060]   To jest schizofrenia. Schizofrenia, która jest szkodliwa.
+[00:29:22.060 --> 00:29:26.060]   Dopóki Ukraina będzie banderowska, i to nawet nie chodzi o te pomniki,
+[00:29:26.060 --> 00:29:30.060]   chociaż one są dowodem, jaka jest ideologia w tym państwie.
+[00:29:30.060 --> 00:29:33.060]   Banderowska Ukraina nie może być naszym sojusznikiem.
+[00:29:33.060 --> 00:29:39.060]   Ja nie chcę Ukraińców usprawiedliwiać, dlatego że mi też nie podobają się banderowskie flagi na Stadionie Narodowym,
+[00:29:39.060 --> 00:29:41.060]   czy w Polsce w jakimkolwiek innym miejscu.
+[00:29:41.060 --> 00:29:46.060]   Nie podobają mi się też na Ukrainie, a prawdą jest, że wystarczy, że przekroczycie granicę polsko-ukraińską
+[00:29:46.060 --> 00:29:52.060]   i zobaczycie mnóstwo czerwono-czarnych flag już we Lwowie.
+[00:29:52.060 --> 00:29:56.060]   I właściwie im dalej na wschód, to tych czerwono-czarnych flag jest mniej więcej
+[00:29:56.060 --> 00:30:00.060]   jest tej oficjalnej niebiesko-żółtej ukraińskiej symboliki.
+[00:30:00.060 --> 00:30:07.060]   Tylko, że to nie jest tak, że to jest ideologia banderowska skierowana przeciwko Polsce.
+[00:30:07.060 --> 00:30:15.060]   Że to jest taka ideologia banderowska, jak my ją postrzegamy patrząc przez pryzmat zbrodni wołyńskiej.
+[00:30:15.060 --> 00:30:22.060]   Zbrodni, podkreślę, zbrodni wołyńskiej. Wołyń to była zbrodnia ukraińskich nacjonalistów na narodzie polskim.
+[00:30:22.060 --> 00:30:29.060]   I Ukraińcy tu próbują stosować znak równości z akcjami odwetowymi polskimi później już po zbrodni wołyńskiej.
+[00:30:29.060 --> 00:30:36.060]   Na to absolutnie nie ma zgody. Tylko trzeba mieć świadomość, że Ukraińcy tego banderę na sztandary wzięli,
+[00:30:36.060 --> 00:30:40.060]   dlatego że Bandera walczył również z Sowietami.
+[00:30:40.060 --> 00:30:47.060]   A Ukraińcy zaczęli brać na sztandary wszystkich, którzy po prostu byli antyrosyjscy,
+[00:30:47.060 --> 00:30:51.060]   dlatego że oni sami budują swoją tożsamość w tej chwili na antyrosyjskości.
+[00:30:51.060 --> 00:30:57.060]   I mają coraz więcej tych współczesnych bohaterów, obrońców Mariupola, cyborgów z lotniska w Doniecku
+[00:30:57.060 --> 00:31:02.060]   czy nawet konkretnych dowódców, którzy zginęli na froncie i oni to również budują.
+[00:31:02.060 --> 00:31:07.060]   I ja mam nadzieję, że ten kult tych współczesnych bohaterów wyprze ten kult Bandery.
+[00:31:07.060 --> 00:31:14.060]   Ale naprawdę w momencie, kiedy widzicie na Ukrainie kogoś nawet z portretem Bandery
+[00:31:14.060 --> 00:31:18.060]   albo z czerwono-czarną flagą albo widzicie ulicę Stepana Bandery
+[00:31:18.060 --> 00:31:22.060]   albo ulicę batalionów UPA, to nie ma tam wydźwięku antypolskiego.
+[00:31:22.060 --> 00:31:26.060]   Nawet sam prezydent Andrzej Duda opowiadał, że podchodzili do niego ludzie,
+[00:31:26.060 --> 00:31:30.060]   kiedy jeździł na Ukrainę z tą banderowską symboliką, dziękując za wsparcie Polski,
+[00:31:30.060 --> 00:31:34.060]   zupełnie nie mając świadomości, czym dla nas jest ta symbolika.
+[00:31:34.060 --> 00:31:39.060]   Dlatego, że też wiedza o Wołyniu na Ukrainie jest znikoma.
+[00:31:39.060 --> 00:31:41.060]   Niestety, ale znikoma.
+[00:31:41.060 --> 00:31:43.060]   Oni się tego jakoś szczególnie w szkołach nie uczyli.
+[00:31:43.060 --> 00:31:45.060]   Nie kładli na tym akcentu.
+[00:31:45.060 --> 00:31:47.060]   Nie chcieli się też z tą swoją zbrodnią rozliczyć.
+[00:31:47.060 --> 00:31:49.060]   Uczyli się innych rzeczy.
+[00:31:49.060 --> 00:31:51.060]   I oczywiście możemy na poziomie historyków rozmawiać,
+[00:31:51.060 --> 00:31:54.060]   jak ten program szkolny ukraiński powinien wyglądać,
+[00:31:54.060 --> 00:31:58.060]   jak to rozwiązać, żeby w końcu, w końcu po ponad 80 latach
+[00:31:58.060 --> 00:32:01.060]   rozliczyć się z tą trudną polsko-ukraińską historią,
+[00:32:01.060 --> 00:32:05.060]   która cały czas jest taką solą w oku
+[00:32:05.060 --> 00:32:08.060]   i cały czas jest tą solą posypywaną na tę otwartą ranę.
+[00:32:08.060 --> 00:32:12.060]   Dlatego, że nikt nigdy nie rozliczył się z tą zbrodnią
+[00:32:12.060 --> 00:32:16.060]   i politycy i historycy nie mieli szansy po prostu tej kwestii zamknąć.
+[00:32:16.060 --> 00:32:19.060]   Myślę, że jesteśmy w stanie po tylu latach znaleźć tutaj jakiś kompromis,
+[00:32:19.060 --> 00:32:23.060]   ale kluczem jest to, że jeżeli ja słyszę banderowska Ukraina,
+[00:32:23.060 --> 00:32:25.060]   to po pierwsze to jest mocna przesada.
+[00:32:25.060 --> 00:32:30.060]   Ona nie jest cała banderowska i aż takim bohaterem bandera tam nie jest,
+[00:32:30.060 --> 00:32:32.060]   żeby mówić o całej banderowskiej Ukrainie,
+[00:32:32.060 --> 00:32:34.060]   że to jest najważniejszy bohater Ukrainy.
+[00:32:34.060 --> 00:32:35.060]   To raz.
+[00:32:35.060 --> 00:32:39.060]   A dwa, że owszem banderowskiej symboliki jest na Ukrainie dużo.
+[00:32:39.060 --> 00:32:45.060]   Tylko w 98% przypadków ona będzie używana zupełnie bez związku z Polską
+[00:32:45.060 --> 00:32:48.060]   i bez żadnego antypolskiego nastawienia.
+[00:32:48.060 --> 00:32:50.060]   Znajdą się oczywiście Polakożercy na Ukrainie,
+[00:32:50.060 --> 00:32:54.060]   znajdą się ci, którzy będą chcieli jej w taki sposób używać,
+[00:32:54.060 --> 00:33:01.060]   ale to jest naprawdę mniejszość, promil i w żaden sposób ta symbolika nie jest antypolska,
+[00:33:01.060 --> 00:33:05.060]   nie jest w taki sposób używana nawet jeśli my ją jako antypolską odbieramy,
+[00:33:05.060 --> 00:33:07.060]   do czego oczywiście mamy prawo,
+[00:33:07.060 --> 00:33:11.060]   bo Wołyń to jest bardzo traumatyczna karta w naszej historii.
+[00:33:11.060 --> 00:33:14.060]   Te elementy, które są wyciągane to są odpady.
+[00:33:14.060 --> 00:33:19.060]   Oczywiście, że one bardzo często trafiają do świadomości społecznej,
+[00:33:19.060 --> 00:33:22.060]   ponieważ są wycinane, filetowane i one chodzą.
+[00:33:22.060 --> 00:33:24.060]   To one są tymi wycinkami, które poruszają,
+[00:33:24.060 --> 00:33:27.060]   które mają setki oglądalności, ale...
+[00:33:27.060 --> 00:33:29.060]   Myślę, że też niejako jesteście w mediach,
+[00:33:29.060 --> 00:33:31.060]   też niejako na tym korzystacie.
+[00:33:31.060 --> 00:33:32.060]   Słuchaj.
+[00:33:32.060 --> 00:33:34.060]   Wiecie też co się kliknie, co się obejmuje.
+[00:33:34.060 --> 00:33:39.060]   Od 21 roku przesiedzieliśmy w sumie prawie dwa lata w kryminale.
+[00:33:39.060 --> 00:33:40.060]   Korzystamy.
+[00:33:40.060 --> 00:33:41.060]   Ja ponad rok.
+[00:33:41.060 --> 00:33:43.060]   I mamy też procesy powygrywane, o których...
+[00:33:43.060 --> 00:33:44.060]   Jakoś ta strona nie chce...
+[00:33:44.060 --> 00:33:51.060]   Pieprzyny TVN nie powie, że Ludwiczek z Jaszczurem wygrali kolejny proces
+[00:33:51.060 --> 00:33:53.060]   i zostali oczyszczeni z oskarżeń.
+[00:33:53.060 --> 00:33:54.060]   To z jakich oskarżeń zostali?
+[00:33:54.060 --> 00:33:57.060]   No na przykład Marcin wygrał proces,
+[00:33:57.060 --> 00:34:01.060]   ponieważ jeden skurwy syn, nie będę mówił nazwiska,
+[00:34:01.060 --> 00:34:07.060]   oskarżył go, że kamrad Osadowski chciał go,
+[00:34:07.060 --> 00:34:10.060]   a nawet przejechał samochodem na wiecu politycznym.
+[00:34:10.060 --> 00:34:11.060]   I że to jest...
+[00:34:11.060 --> 00:34:12.060]   Zamach na jego życie.
+[00:34:12.060 --> 00:34:14.060]   Zamach i zasadnie zabójstwo.
+[00:34:14.060 --> 00:34:15.060]   I przegrał ten proces.
+[00:34:15.060 --> 00:34:17.060]   Proces trwał dwa lata.
+[00:34:17.060 --> 00:34:19.060]   Zostali powołani, biegli.
+[00:34:19.060 --> 00:34:20.060]   I przegrał ten proces.
+[00:34:20.060 --> 00:34:22.060]   Jemu wytoczył proces na przykład Niedzielski.
+[00:34:22.060 --> 00:34:23.060]   Wygrał ten proces.
+[00:34:23.060 --> 00:34:24.060]   Wytoczył mi proces...
+[00:34:24.060 --> 00:34:26.060]   Jeden z profesorków, nie będę mówił nazwiska,
+[00:34:26.060 --> 00:34:29.060]   bo się przy moim świetle będzie ogrzewał,
+[00:34:29.060 --> 00:34:30.060]   a nie życzę sobie tego.
+[00:34:30.060 --> 00:34:33.060]   Wytoczył mi proces, że chce go zabić.
+[00:34:33.060 --> 00:34:36.060]   Proces trwał dwa lata i już z więzienia przed wysokim sądem
+[00:34:36.060 --> 00:34:45.060]   stawałem w wideokonferencji, gdzie jeszcze swoje argumenty przedstawiałem
+[00:34:45.060 --> 00:34:48.060]   i zostałem uniewinniony, że absolutnie go nie chciałem zabić.
+[00:34:48.060 --> 00:34:55.060]   I nie pozwolę sobie, żeby mnie tyrpał gnojek, który ma problemy ze swoją psychiką.
+[00:34:55.060 --> 00:35:02.060]   Skarży mnie i znajduje się prokurator, który podejmuje te wyssane spalucha oskarżenia.
+[00:35:02.060 --> 00:35:08.060]   I na szczęście jest sąd, który wszystko dokładnie analizuje
+[00:35:08.060 --> 00:35:11.060]   i po dwóch latach uniewinnia mnie więcej.
+[00:35:11.060 --> 00:35:13.060]   Ja z tym gościem dwa razy wygrałem.
+[00:35:13.060 --> 00:35:19.060]   Dwa razy wygrałem z tym gościem, a on usadowiony politycznie w centrum obecnym,
+[00:35:19.060 --> 00:35:22.060]   korzystający z mediów, z TVN-u, z gazety wyborczej,
+[00:35:22.060 --> 00:35:26.060]   myśli, że ze mną wygra tylko dlatego, że powiedział, że ja chcę go zabić.
+[00:35:26.060 --> 00:35:29.060]   A ja bym się nawet nie odeszczał na niego,
+[00:35:29.060 --> 00:35:33.060]   ponieważ mój mocz jest konsekwencją mojej przemiany materii,
+[00:35:33.060 --> 00:35:38.060]   czyli wydałem na mój mocz jakiś kwant pieniędzy, żeby on powstał.
+[00:35:38.060 --> 00:35:41.060]   Nie uważam go za godnego, żeby go osikać.
+[00:35:41.060 --> 00:35:52.060]   Więc słuchaj, dorabia się nam gębę, ponieważ nasza naturalność...
+[00:35:52.060 --> 00:35:54.060]   Inaczej.
+[00:35:54.060 --> 00:35:56.060]   My jesteśmy jak zwierzęta, wiesz?
+[00:35:56.060 --> 00:35:57.060]   Osadowski i ja.
+[00:35:57.060 --> 00:35:59.060]   Jak koń i pies.
+[00:35:59.060 --> 00:36:01.060]   My niczego nie udajemy.
+[00:36:01.060 --> 00:36:02.060]   Niczego nie udajemy.
+[00:36:02.060 --> 00:36:05.060]   Owszem, tworzymy organizację polityczną.
+[00:36:05.060 --> 00:36:07.060]   Jesteśmy w umundurowaniu.
+[00:36:07.060 --> 00:36:14.060]   Takie umundurowanie nosi dziesiątki, dziesiątki osób tworzące ugrupowania w ruchu kamradzkim.
+[00:36:14.060 --> 00:36:16.060]   No właśnie, odbierał was Grzegorz Braun.
+[00:36:16.060 --> 00:36:17.060]   Wy chcecie iść w politykę?
+[00:36:17.060 --> 00:36:19.060]   Ale my jesteśmy w politykę.
+[00:36:19.060 --> 00:36:20.060]   Ale no tak już...
+[00:36:20.060 --> 00:36:22.060]   To wszystko, co robimy wokół, to jest polityka.
+[00:36:22.060 --> 00:36:26.060]   To, że ty nie wejdziesz w politykę, znaczy, że polityka nie weszła z butami do ciebie.
+[00:36:26.060 --> 00:36:31.060]   Mówiąc o tych kwestiach geopolitycznych, właśnie chciałem nawiązać do polityki.
+[00:36:31.060 --> 00:36:33.060]   Dwie ważne sprawy.
+[00:36:33.060 --> 00:36:36.060]   Mówisz o tym, że pomagamy Ukrainie, tak?
+[00:36:36.060 --> 00:36:39.060]   Ale złamano przepisy konstytucyjne.
+[00:36:39.060 --> 00:36:42.060]   Tak poważne umowy powinny przejść przez Sejm.
+[00:36:42.060 --> 00:36:46.060]   Ktoś je podpisał, pomijając drogę, ścieżkę właściwą.
+[00:36:46.060 --> 00:36:48.060]   Nie przeszły przez Sejm, nie zostały przedyskutowane.
+[00:36:48.060 --> 00:36:50.060]   Sejm ich nie przyjął.
+[00:36:50.060 --> 00:36:56.060]   Stosujemy prawo, które nie powinno być stosowane, bo została w sposób niewłaściwy umowa międzynarodowo podpisana.
+[00:36:56.060 --> 00:37:07.060]   Chciałbym ludziom również przypomnieć, że, szanowni państwo, taka sama umowa jak z Ukrainą dotycząca wsparcia, mamy ją z Litwą chyba i z Łotwą.
+[00:37:07.060 --> 00:37:14.060]   Zarzuty dotyczące braku podstawy prawnej, jeśli chodzi o przekazywanie pomoc na Ukrainę, są całkowicie fałszywe.
+[00:37:14.060 --> 00:37:25.060]   Po pierwsze, już w marcu 2022 roku Sejm, a potem Senat przyjęły ustawę, specjalną ustawę o pomocy dla obywateli Ukrainy.
+[00:37:25.060 --> 00:37:33.060]   I na podstawie przepisów zawartych w tej ustawie pomoc finansowa, pomoc humanitarna były przekazywane.
+[00:37:33.060 --> 00:37:55.060]   Natomiast jeśli chodzi o pomoc militarną, dlatego że Polska przekazała dużo sprzętu wojskowego na Ukrainę, jeśli chodzi o podstawę prawną w tej sprawie, to za każdym razem Rada Ministrów podejmowała specjalną uchwałę dotyczącą przekazywania tego sprzętu w ramach posiadanych kompetencji.
+[00:37:55.060 --> 00:37:59.060]   Uważam, że Ukraina została popchnięta do tej wojny i niestety…
+[00:37:59.060 --> 00:38:04.060]   Marzasz, że została popchnięta do wojny tym, że rosyjskie wojska wjechały na teren Ukrainy?
+[00:38:04.060 --> 00:38:11.060]   Nie, tym, że zaczęli regularnie niszczyć i mordować ludzi na zachodniej Ukrainie, którzy chcieli być Ukraińcami…
+[00:38:11.060 --> 00:38:12.060]   Na wschodniej.
+[00:38:12.060 --> 00:38:13.060]   Na wschodniej, przepraszam.
+[00:38:13.060 --> 00:38:14.060]   Na wschodniej, uważam.
+[00:38:14.060 --> 00:38:17.060]   …którzy chcieli być Ukraińcami, byli Ukraińcami, czuli się Ukraińcami.
+[00:38:17.060 --> 00:38:20.060]   Jedyny problem polegał na tym, że byli to Ukraińcy rosyjskojęzyczni.
+[00:38:20.060 --> 00:38:25.060]   Tak, Ukraina została popchnięta do wojny przez Rosję, dlatego że Rosja na Ukrainę napadła.
+[00:38:25.060 --> 00:38:35.060]   Zeleński do ostatniej chwili chciał jeszcze próbować załatwić pokój, dlatego właśnie zdobył władzę na Ukrainie, dlatego został prezydentem, bo obiecał Ukraińcom, że dogada się z Putinem.
+[00:38:35.060 --> 00:38:40.060]   Ale Putin z Zeleńskim dogadywać się po prostu nie chciał, więc to bzdura.
+[00:38:40.060 --> 00:38:43.060]   Panie, za rozpoczęcie wojny ponosi Ukraina czy Rosja?
+[00:38:43.060 --> 00:38:55.060]   Ja ci powiem, Ukraina jest takim miejscem, gdzie geopolitycy amerykańscy i obojętnie, czy oni są republikańscy, czy są demokratyczni,
+[00:38:55.060 --> 00:39:00.060]   chcieliby z Ukrainy zrobić taki lotniskowiec do tej wojny z Rosją.
+[00:39:00.060 --> 00:39:03.060]   Nie. Stany Zjednoczone nie pchnęły Ukrainy do wojny.
+[00:39:03.060 --> 00:39:10.060]   Nawet w tych wypowiedziach prezydenta Trumpa, który mówi, że to wina Joe Bidena, że wybuchła ta wojna.
+[00:39:10.060 --> 00:39:18.060]   Nie ma mowy o tym, że to Stany Zjednoczone pchały do tej wojny Ukrainę, tylko jest mowa o tym, że gdybym ja był prezydentem, to by do tej wojny nie doszło,
+[00:39:18.060 --> 00:39:24.060]   dlatego, że Putin się boi Trumpa, są przyjaciółmi, a Biden był słabym prezydentem.
+[00:39:24.060 --> 00:39:30.060]   Więc nie, nie ma czegoś takiego i nie ma takiej teorii. Zresztą nie ma na to żadnego potwierdzenia.
+[00:39:30.060 --> 00:39:40.060]   Ta wojna z Rosją jest im potrzebna, chociaż przegapili ten moment i Chiny już dzisiaj to nie są te same Chiny, co z lat dziewięćdziesiątych.
+[00:39:40.060 --> 00:39:45.060]   To nawet nie są te same Chiny, które w dziewięćdziesiątym dziewiątym roku odbierały Hong Kong.
+[00:39:45.060 --> 00:39:55.060]   To już są zupełnie inne Chiny i świat zupełnie co innego dzisiaj znaczy, niż znaczył w latach osiemdziesiątych, dziewięćdziesiątych.
+[00:39:55.060 --> 00:40:00.060]   To są te Chiny, które w kanale Suezkim postawiły statek bokiem.
+[00:40:00.060 --> 00:40:02.060]   I zatrzymały pół świata.
+[00:40:02.060 --> 00:40:05.060]   I zatrzymały pół świata, bez żadnego armatniego wystrzału.
+[00:40:05.060 --> 00:40:12.060]   To są te Chiny, które dzisiaj spowodowały, że naród chiński jest narodem zamożnym.
+[00:40:12.060 --> 00:40:15.060]   Ja nie mówię bogatym, ludzie, zamożnym.
+[00:40:15.060 --> 00:40:23.060]   To są te Chiny, gdzie Chiny nie korzystają z żadnych dotacji amerykańskich, europejskich zbudowały największy most na świecie.
+[00:40:23.060 --> 00:40:25.060]   Zbudowały go w trzy lata.
+[00:40:25.060 --> 00:40:27.060]   I pociągi jeżdżące 450 km/h.
+[00:40:27.060 --> 00:40:32.060]   Mimo, że inżynierowie niemieccy powiedzieli, że taki most można zbudować w 30 lat.
+[00:40:32.060 --> 00:40:39.060]   To są te Chiny, które łączą liniami kolejowymi pociągami, które jeżdżą po 400 km/h.
+[00:40:39.060 --> 00:40:52.060]   To są najodleglejsze prowincje Chin po to tylko, żeby studenci mogli przez godzinę dojechać np. do Pekinu i przez następną godzinę wrócić do siebie.
+[00:40:52.060 --> 00:40:57.060]   Przy ogniecie Chińczyków, tak wiemy, są imponujące, ale jakbyście mogli wprost.
+[00:40:57.060 --> 00:41:00.060]   Kto ponosi winę za wojnę na Ukrainie?
+[00:41:00.060 --> 00:41:01.060]   Jak to kto?
+[00:41:01.060 --> 00:41:03.060]   Nie, Amerykanie.
+[00:41:03.060 --> 00:41:04.060]   Polityka amerykańska.
+[00:41:04.060 --> 00:41:06.060]   Wiktoria Nuland o tym powiedziała wprost.
+[00:41:06.060 --> 00:41:13.060]   Wiktoria Nuland związana z sekretarzem stanu, czy chyba nawet jego zastępca, czy rzecznik, już nie pamiętam.
+[00:41:13.060 --> 00:41:19.060]   Powiedziała na komisji w Kongresie Stanów Zjednoczonych, że Majdan kosztował nas zaledwie 5 miliardów dolarów.
+[00:41:19.060 --> 00:41:22.060]   A pierwotnie było to nagrane w podsłuchanej rozmowie.
+[00:41:22.060 --> 00:41:29.060]   Oczywiście można odpowiedzieć w różny sposób, np. nie, nie przez Amerykanów trwa ta wojna.
+[00:41:29.060 --> 00:41:36.060]   Ta wojna trwa przez to, że Rosja zaatakowała Ukrainę, a ta się broni i nie chce przestać.
+[00:41:36.060 --> 00:41:39.060]   I że Rosja też nie chce przestać jej atakować.
+[00:41:39.060 --> 00:41:41.060]   To jest chyba odpowiedź najłatwiejsza.
+[00:41:41.060 --> 00:41:46.060]   No ale też można tutaj, bo wiem do czego tutaj się odnosimy.
+[00:41:46.060 --> 00:41:53.060]   No nie. Pani Nuland mówiąc o tych 5 miliardach, które Stany Zjednoczone wydały na Majdan.
+[00:41:53.060 --> 00:41:58.060]   Nie ma na myśli wydanych pieniędzy na Majdan, bo takiej wypowiedzi w ogóle nie było.
+[00:41:58.060 --> 00:42:04.060]   Była wypowiedź, że Stany Zjednoczone wydały nawet niech to będzie te 5 miliardów dolarów na to,
+[00:42:04.060 --> 00:42:14.060]   aby Ukrainę po rozpadzie Związku Radzieckiego trochę popchnąć w stronę demokracji, a nie w stronę sowietyzacji.
+[00:42:14.060 --> 00:42:18.060]   I o to chodziło w tej wypowiedzi, więc ona jest wyrwana z kontekstu.
+[00:42:18.060 --> 00:42:20.060]   O Majdanie tam nic nie było.
+[00:42:20.060 --> 00:42:24.060]   Natomiast co do meritum, no nie.
+[00:42:24.060 --> 00:42:30.060]   Ale oczywiście też znajdziemy takie interpretacje, że Stany Zjednoczone mają w tym interes, żeby wojna trwała jak najdłużej,
+[00:42:30.060 --> 00:42:34.060]   bo wtedy wszyscy będą kupować amerykański sprzęt wojskowy.
+[00:42:34.060 --> 00:42:39.060]   Jest to bardzo naciągana teoria, więc tak ogólnie rzecz biorąc odpowiedź brzmi nie.
+[00:42:39.060 --> 00:42:41.060]   Czyli to dobrze, że Rosjanie najechali.
+[00:42:41.060 --> 00:42:43.060]   Nie mówimy, czy dobrze.
+[00:42:43.060 --> 00:42:45.060]   Ja ci powiem, Dawid, że jesteście w stanie powiedzieć, czy źle?
+[00:42:45.060 --> 00:42:47.060]   No bo zaraz, poczekaj.
+[00:42:47.060 --> 00:42:51.060]   Myślę, że w wielu kwestiach mamy za małą wiedzę, żeby dokładnie, precyzyjnie te rzeczy określić.
+[00:42:51.060 --> 00:42:55.060]   Natomiast powiem to tak jasno i bardzo zdecydowanie.
+[00:42:55.060 --> 00:42:57.060]   Nie dziwi mnie ta reakcja.
+[00:42:57.060 --> 00:42:59.060]   Nie dziwi mnie ta reakcja.
+[00:42:59.060 --> 00:43:01.060]   I nie pochwalamy reakcji tej, natomiast powiem ci tak.
+[00:43:01.060 --> 00:43:07.060]   Gdyby była, na przykład gdyby była w państwie ościennym, którymkolwiek, wymyśl sobie.
+[00:43:07.060 --> 00:43:15.060]   Porównując siłę, powiedzmy, że na Słowacji albo w Czechach jest ogromna liczba ludności polskiej, która tam żyje.
+[00:43:15.060 --> 00:43:17.060]   Mówi, my się już rodziliśmy w Czechach.
+[00:43:17.060 --> 00:43:18.060]   Jesteśmy Czechami.
+[00:43:18.060 --> 00:43:19.060]   Po wojnie tak zostało trudno.
+[00:43:19.060 --> 00:43:21.060]   Granica nas podzieliła.
+[00:43:21.060 --> 00:43:23.060]   Ale tam żyjemy.
+[00:43:23.060 --> 00:43:31.060]   I z jakiegoś powodu nagle, z powodu takiego, że obce państwo chce sobie stworzyć wojenkę, żeby przetestować swoje uzbrojenie.
+[00:43:31.060 --> 00:43:35.060]   Po to, żeby zmienić geopolitykę albo politykę tego państwa.
+[00:43:35.060 --> 00:43:37.060]   Móc mieć na nie przemożny wpływ.
+[00:43:37.060 --> 00:43:40.060]   Szukają sobie powodu do rozwinięcia konfliktu.
+[00:43:40.060 --> 00:43:47.060]   I znaleźli się Polacy, które stanowią w połowie tego kraju na przykład albo w 1/3 tego kraju ogromną siłę.
+[00:43:47.060 --> 00:43:56.060]   Teraz, gdyby zrobili to samo w Czechach i wszyscy byśmy siedzieli i patrzyli, jak mordują Polaków w Czechach tylko dlatego, że posługują się językiem polskim.
+[00:43:56.060 --> 00:43:57.060]   A powiem ci inaczej.
+[00:43:57.060 --> 00:44:02.060]   A co Polacy robią z Polakami na Litwie, na Białorusi, którzy stanowią mniejszość?
+[00:44:02.060 --> 00:44:03.060]   To rząd polski.
+[00:44:03.060 --> 00:44:04.060]   Dlaczego rząd polski tam wspiera?
+[00:44:04.060 --> 00:44:06.060]   Tam jeszcze nie ma strzelania do nich.
+[00:44:06.060 --> 00:44:08.060]   A zareagowali jakby strzelali?
+[00:44:08.060 --> 00:44:10.060]   Czy uważasz, że nie należałoby reagować?
+[00:44:10.060 --> 00:44:11.060]   Reagować tak.
+[00:44:11.060 --> 00:44:12.060]   Najeżdżać?
+[00:44:12.060 --> 00:44:13.060]   Nie.
+[00:44:13.060 --> 00:44:14.060]   Ale reagować jak?
+[00:44:14.060 --> 00:44:15.060]   Zabiją Polaków.
+[00:44:15.060 --> 00:44:16.060]   Strzelają do nich jak do kaczek.
+[00:44:16.060 --> 00:44:17.060]   Nie wchodzisz.
+[00:44:17.060 --> 00:44:18.060]   Ewakuować.
+[00:44:18.060 --> 00:44:19.060]   Przyjmować ich tutaj.
+[00:44:19.060 --> 00:44:20.060]   Dawid.
+[00:44:20.060 --> 00:44:21.060]   Ale nie atakować inne kraje.
+[00:44:21.060 --> 00:44:22.060]   Dawid coś ci powiem.
+[00:44:22.060 --> 00:44:23.060]   Nie mordować.
+[00:44:23.060 --> 00:44:24.060]   8 lat.
+[00:44:24.060 --> 00:44:26.060]   Czyli można było tam mordować niewinnych ludzi?
+[00:44:26.060 --> 00:44:27.060]   Zostawię.
+[00:44:27.060 --> 00:44:28.060]   Ukraińcy Ukraińców mogli mordować.
+[00:44:28.060 --> 00:44:29.060]   Absolutnie.
+[00:44:29.060 --> 00:44:30.060]   Tego nie powiedziałem.
+[00:44:30.060 --> 00:44:31.060]   No ale 8 lat to się działo.
+[00:44:31.060 --> 00:44:34.060]   To się działo przez 8 lat i nikt o tym nie mówił, nie reagował.
+[00:44:34.060 --> 00:44:39.060]   Ukraińcy mordowali Ukraińców to jest bardzo, ale to bardzo duży skrót myślowy.
+[00:44:39.060 --> 00:44:41.060]   Ja Wam to opowiem inaczej.
+[00:44:41.060 --> 00:44:49.060]   Bo tutaj chodzi o rok 2014, kiedy zaczęła się wojna rosyjsko-ukraińska.
+[00:44:49.060 --> 00:44:51.060]   Tylko wtedy to wyglądało inaczej.
+[00:44:51.060 --> 00:44:53.060]   Powiem Wam jak to wyglądało, dlatego że ja tam byłam.
+[00:44:53.060 --> 00:44:56.060]   Byłam na Krymie, kiedy Rosja zaczynała okupację Krymu.
+[00:44:56.060 --> 00:45:00.060]   I byłam na Donbasie, kiedy zaczynała się tam wojna.
+[00:45:00.060 --> 00:45:02.060]   Wojna, której ja sobie zupełnie nie wyobrażałam.
+[00:45:02.060 --> 00:45:05.060]   Bo ja sobie nie wyobrażałam, że z tych protestów, które tam się zaczynały,
+[00:45:05.060 --> 00:45:08.060]   rzeczywiście dojdziemy do momentu, w którym będą ginęli ludzie.
+[00:45:08.060 --> 00:45:10.060]   Będą latały rakiety i będą jeździły czołgi.
+[00:45:10.060 --> 00:45:12.060]   A doszliśmy do takiego momentu.
+[00:45:12.060 --> 00:45:14.060]   Wtedy mówiliśmy o separatystach.
+[00:45:14.060 --> 00:45:16.060]   Tam ludzie wychodzili na ulicę.
+[00:45:16.060 --> 00:45:19.060]   Nie podobał im się nowy rząd w Kijowie.
+[00:45:19.060 --> 00:45:23.060]   To byli ludzie, ale to zostawmy z boku, wyjmę to trochę poza nawias.
+[00:45:23.060 --> 00:45:27.060]   To byli ludzie rosyjskojęzyczni, którzy oglądali bardzo dużo rosyjskiej telewizji
+[00:45:27.060 --> 00:45:30.060]   i byli pod jej bardzo dużym wpływem.
+[00:45:30.060 --> 00:45:35.060]   Ale byli obywatelami Ukrainy, którym się nie spodobało to, co się zadziało w Kijowie.
+[00:45:35.060 --> 00:45:40.060]   I oni przy bardzo dużym wsparciu, także militarnym rosyjskim wsparciu,
+[00:45:40.060 --> 00:45:44.060]   zaczęli przejmować kontrolę nad obwodami na wschodzie Ukrainy.
+[00:45:44.060 --> 00:45:48.060]   Najpierw zajęli ich więcej, potem część odzyskała ukraińska armia.
+[00:45:48.060 --> 00:45:52.060]   Finalnie to był obwód niecały nawet ługański i doniecki.
+[00:45:52.060 --> 00:45:55.060]   Do tej pory Rosja nie kontroluje całości tych dwóch obwodów.
+[00:45:55.060 --> 00:45:58.060]   I to się działo od 2014 roku.
+[00:45:58.060 --> 00:46:02.060]   I rzeczywiście Ukraina, kiedy ukraińska armia, kiedy odbijała te terytoria,
+[00:46:02.060 --> 00:46:08.060]   czy nawet później stacjonowała przy tej linii rozgraniczenia,
+[00:46:08.060 --> 00:46:10.060]   no to tam dochodziło do wymiany ognia.
+[00:46:10.060 --> 00:46:14.060]   Między ukraińską armią, która stała na tym kontrolowanym przez Ukrainę terytorium,
+[00:46:14.060 --> 00:46:23.060]   czy która odbijała swoje terytoria, a tymi separatystami, wśród których oczywiście byli też obywatele Ukrainy,
+[00:46:23.060 --> 00:46:30.060]   którzy, moim zdaniem większość z nich myślała wtedy, że oni zostaną przyłączeni do Rosji tak jak Krym.
+[00:46:30.060 --> 00:46:33.060]   No tylko zostali formalnie przyłączeni dopiero w roku 2022.
+[00:46:33.060 --> 00:46:39.060]   Im się wydawało, że to się stanie w roku 2014, ale tu jest kwestia tego obywatelstwa.
+[00:46:39.060 --> 00:46:43.060]   I patrząc na to z tej strony, no to oczywiście Ukraińcy strzelali do Ukraińców.
+[00:46:43.060 --> 00:46:48.060]   Ukraińcy, którzy chcieli widzieć Ukrainę w Unii Europejskiej, którzy chcieli widzieć Ukrainę pro-zachodnią,
+[00:46:48.060 --> 00:46:52.060]   strzelali do tych Ukraińców, którzy opowiedzieli się po stronie Rosji.
+[00:46:52.060 --> 00:46:58.060]   Którzy chcieli widzieć Ukrainę z Rosją, a potem, którzy chcieli widzieć te swoje obwody
+[00:46:58.060 --> 00:47:02.060]   jako niezależne państwa, niezależne republiki.
+[00:47:02.060 --> 00:47:05.060]   One przecież jako takie przez Rosję przez chwilę zostały uznane.
+[00:47:05.060 --> 00:47:10.060]   Chociaż jako takie małe organizmy zupełnie nie miały racji bytu w oderwaniu od Rosjan.
+[00:47:10.060 --> 00:47:12.060]   I na pewno byli tam ukraińscy obywatele.
+[00:47:12.060 --> 00:47:15.060]   Tylko co ukraiński rząd miał zrobić?
+[00:47:15.060 --> 00:47:24.060]   Miał pozwolić na to, żeby zajmowano mu coraz większą część ukraińskiego terytorium przy rosyjskim wsparciu.
+[00:47:24.060 --> 00:47:30.060]   Bo to jest absolutnie niemożliwe, żeby się to odbywało bez rosyjskiego wsparcia, także militarnego.
+[00:47:30.060 --> 00:47:38.060]   Ukraina musiała bronić swojego terytorium i musiała się w tym sensie bronić przed swoimi zbuntowanymi obywatelami.
+[00:47:38.060 --> 00:47:45.060]   Pod tym kątem to jest prawda, ale jeżeli wyrywa się z kontekstu frazę "Ukraińcy zabijają Ukraińców", no to brzmi to bardzo źle.
+[00:47:45.060 --> 00:47:49.060]   Jeżeli opowiada się tę historię w całości, to chyba można na to spojrzeć trochę inaczej.
+[00:47:49.060 --> 00:47:53.060]   1 września 1939 roku Niemcy napadły na Polskę.
+[00:47:53.060 --> 00:47:55.060]   Niemcy hitlerowskie napadły na Polskę.
+[00:47:55.060 --> 00:47:58.060]   I zbombardowały takie miasto Wieluń.
+[00:47:58.060 --> 00:48:01.060]   Zbombardowały Zamek Królewski, siedzibę prezydenta RP.
+[00:48:01.060 --> 00:48:06.060]   Zbombardowały budynek Sejmu i budynki rządowe w Warszawie.
+[00:48:06.060 --> 00:48:10.060]   Centra dowodzenia.
+[00:48:10.060 --> 00:48:12.060]   Niszczyły węzły kolejowe.
+[00:48:12.060 --> 00:48:13.060]   To była wojna.
+[00:48:13.060 --> 00:48:18.060]   Nie widzę, żeby wojna na Ukrainie kierowała się zasadami wojny.
+[00:48:18.060 --> 00:48:22.060]   Zasada wojny jest dopaść, zabić przy najmniejszych stratach.
+[00:48:22.060 --> 00:48:23.060]   Jak najszybciej.
+[00:48:23.060 --> 00:48:25.060]   Zutylizować przeciwnika.
+[00:48:25.060 --> 00:48:27.060]   Znieślić centra dowodzenia.
+[00:48:27.060 --> 00:48:31.060]   Ja widzę awanturę zbrojną.
+[00:48:31.060 --> 00:48:35.060]   Nie wszystko też wiem co tak naprawdę się tam dzieje, ale jedno wiem.
+[00:48:35.060 --> 00:48:43.060]   Żadna pieszona rakieta nie spadła na neobanderowski parlament w Kijowie.
+[00:48:43.060 --> 00:48:45.060]   Przy zdolnościach technicznych, militarnych.
+[00:48:45.060 --> 00:48:49.060]   Żadna rakieta nie spadła na żaden budynek rządowy w Kijowie.
+[00:48:49.060 --> 00:48:51.060]   Za to spadła na bloki mieszkalne.
+[00:48:51.060 --> 00:48:54.060]   Tak jak spadała przez 8 lat na bloki mieszkalne na wschodniej Ukrainie.
+[00:48:54.060 --> 00:48:55.060]   Powiem Ci tak.
+[00:48:55.060 --> 00:48:58.060]   Dajcie powie, nie skończyła swojej myśli. Stop, stop.
+[00:48:58.060 --> 00:49:01.060]   Uważam, że w ogóle rakiety nie powinny spadać na żadne bloki.
+[00:49:01.060 --> 00:49:02.060]   Panowie.
+[00:49:02.060 --> 00:49:08.060]   Na szczęście spadają na polskie ciągniki, które się okazują pancerne w przewodowie i okazuje się, że jest to rakieta.
+[00:49:08.060 --> 00:49:10.060]   To też było skandaliczne.
+[00:49:10.060 --> 00:49:16.060]   Odsyłam wszystkich, bo może nie wszyscy wiedzą, do mapy Gomberga z 1940 roku.
+[00:49:16.060 --> 00:49:18.060]   Jest do zobaczenia w Wikipedii.
+[00:49:18.060 --> 00:49:20.060]   Dokument rządowy, amerykański.
+[00:49:20.060 --> 00:49:22.060]   Mapa Gomberga powstała.
+[00:49:22.060 --> 00:49:24.060]   Została przyjęta przez kongres.
+[00:49:24.060 --> 00:49:26.060]   Osadzona w bibliotece.
+[00:49:26.060 --> 00:49:30.060]   Na wszystkich dworcach kolejowych i autobusowych w Ameryce.
+[00:49:30.060 --> 00:49:36.060]   Mapa, na której na dole jest pozwojenny porządek świata.
+[00:49:36.060 --> 00:49:40.060]   Mapa, która pokazuje po II wojnie światowej.
+[00:49:40.060 --> 00:49:42.060]   Jak ma wyglądać poziom świata po II wojnie światowej.
+[00:49:42.060 --> 00:49:43.060]   Teraz ważna rzecz.
+[00:49:43.060 --> 00:49:44.060]   Który to jest rok?
+[00:49:44.060 --> 00:49:45.060]   1940-1941.
+[00:49:45.060 --> 00:49:46.060]   Gdzie stoją w tym momencie Niemcy?
+[00:49:46.060 --> 00:49:48.060]   27 kilometrów pod Moskwą.
+[00:49:48.060 --> 00:49:51.060]   I jeszcze wtedy są w uderzeniu i są przekonani o tym, że za chwilę wygrają.
+[00:49:51.060 --> 00:49:53.060]   Sowiety są na kolanach.
+[00:49:53.060 --> 00:49:55.060]   I co Ameryka przedstawia światu?
+[00:49:55.060 --> 00:50:00.060]   Że cała Europa jest oddana Stalinowi, a reszta świata Ameryce.
+[00:50:00.060 --> 00:50:03.060]   Że nie ma Polski, nie ma Czech, nie ma Niemiec.
+[00:50:03.060 --> 00:50:08.060]   Jest Polska Republika Radziecka, Czeska Republika Radziecka, Niemiecka Republika Radziecka,
+[00:50:08.060 --> 00:50:11.060]   Holenderska Republika Radziecka, Belgijska Republika Radziecka.
+[00:50:11.060 --> 00:50:12.060]   Niemiecka, tak, mówiłeś?
+[00:50:12.060 --> 00:50:13.060]   Tak, Niemiecka.
+[00:50:13.060 --> 00:50:15.060]   Oni już wtedy sobie podzielili.
+[00:50:15.060 --> 00:50:17.060]   Więc jak ktoś zobaczy tę mapę Gombrę…
+[00:50:17.060 --> 00:50:23.060]   I bardzo ważne jest Hebrevland, czyli ziemia hebrajska.
+[00:50:23.060 --> 00:50:26.060]   W 40. roku jeszcze nie było ostatecznego rozwiązania.
+[00:50:26.060 --> 00:50:29.060]   Gdzie Żydzi byli mordowani wtedy przez Niemców.
+[00:50:29.060 --> 00:50:33.060]   Jeszcze nie byli mordowani zgodnie z zasadami ostatecznego rozwiązania.
+[00:50:33.060 --> 00:50:35.060]   Ale już się to zaczynało, tak?
+[00:50:35.060 --> 00:50:37.060]   I teraz, szanowni państwo…
+[00:50:37.060 --> 00:50:40.060]   A był kraj hebrajski, że oni tam wyjadą i tam stworzą swój kraj.
+[00:50:40.060 --> 00:50:46.060]   Oni sobie usiedli, podzielili sobie świat i ta wojna jeszcze trwała…
+[00:50:46.060 --> 00:50:52.060]   Ta wojna jeszcze trwała 5 lat, 4 lata, bo ta wojna w ogóle miała trwać do 50. roku.
+[00:50:52.060 --> 00:50:59.060]   W Teheranie trzech gangsterów – Stalin, Roosevelt, Churchill – usiedli i stwierdzili:
+[00:50:59.060 --> 00:51:06.060]   poniesieśmy takie koszta, zwrócą nam się one z zyskiem, jak zakończymy wojnę w 50. roku.
+[00:51:06.060 --> 00:51:08.060]   Na szczęście Stalin był stary i…
+[00:51:08.060 --> 00:51:14.060]   Trzeba podkreślić, że nazwał pan Stalina gangsterem, bo też widziałem komentarze, że jest pan stalinistą.
+[00:51:14.060 --> 00:51:16.060]   O kurwa!
+[00:51:16.060 --> 00:51:19.060]   Proszę mi to prosto w oczy powiedzieć.
+[00:51:19.060 --> 00:51:23.060]   Stanąć przede mną i powiedzieć mi prosto w oczy, stanąć w zasięgu mojej ręki.
+[00:51:23.060 --> 00:51:32.060]   Bo ja jednego gnoja, pod kamerami, zdzieliłem w mordę na Powązkach za to, że nazwał mnie publicznie ruskim agentem.
+[00:51:32.060 --> 00:51:41.060]   Była sprawa sądowa, ja go przeprosiłem za to, nie za to, że go walnąłem w mordę, tylko za to, że go walnąłem w mordę na Powązkach.
+[00:51:41.060 --> 00:51:43.060]   Żeby była jasna.
+[00:51:43.060 --> 00:51:45.060]   Tego dnia 1 sierpnia.
+[00:51:45.060 --> 00:51:53.060]   Więc stańcie przede mną, każdemu można gówno przylepić i to gówno się na nim, jak zwłaszcza z tyłu, jak on nie widzi, to inni widzą.
+[00:51:53.060 --> 00:51:55.060]   Szanowni Państwo, polski interes narodowy.
+[00:51:55.060 --> 00:52:04.060]   Rzucam oskarżenie, kierując się moimi nauczycielami, moimi mentorami, ludźmi z Narodowych Sił Zbrojnych, ze Związku Jaszczurczego.
+[00:52:04.060 --> 00:52:13.060]   Amerykanie i Rosjanie świetny interes na tej awanturze wojennej na Ukrainie robią.
+[00:52:13.060 --> 00:52:16.060]   Wojna na Ukrainie to oczywiście przede wszystkim ogromne nieszczęście.
+[00:52:16.060 --> 00:52:19.060]   I to wojna to też zagrożenie dla polskiej suwerenności.
+[00:52:19.060 --> 00:52:22.060]   I to zagrożenie ze strony oczywiście Rosji.
+[00:52:22.060 --> 00:52:27.060]   No bo to jest wojna o to, że Rosja chce tworzyć swoją strefę wpływów.
+[00:52:27.060 --> 00:52:34.060]   Dzisiaj chce, żeby była tam Ukraina, a nie wiadomo czy jutro czy pojutrze nie będzie chciała, żeby była tam Polska.
+[00:52:34.060 --> 00:52:42.060]   No i jeżeli nasza racja stanu dzisiaj wygląda tak, że nie chcemy być w rosyjskiej strefie wpływów, no to wywód jest oczywisty.
+[00:52:42.060 --> 00:52:44.060]   Musimy powstrzymywać Rosję.
+[00:52:44.060 --> 00:52:49.060]   No i to jest główny strategiczny cel, który Polska powinna wypełniać.
+[00:52:49.060 --> 00:52:53.060]   My Polacy, my Polacy bycalujemy, zadłużamy następne pokolenie.
+[00:52:53.060 --> 00:52:55.060]   Zadłużyliśmy twoją przyszłość Dawid.
+[00:52:55.060 --> 00:52:56.060]   Znaczy nie my.
+[00:52:56.060 --> 00:52:58.060]   Rząd Polski zadłużył.
+[00:52:58.060 --> 00:53:00.060]   Będziemy spłacać te kredyty.
+[00:53:00.060 --> 00:53:03.060]   Będą przejmować nasze aktywa.
+[00:53:03.060 --> 00:53:05.060]   W momencie, w którym są na przykład dotacje dawane.
+[00:53:05.060 --> 00:53:07.060]   Przypomnę, były takie dotacje w Unii Europejskiej.
+[00:53:07.060 --> 00:53:09.060]   Oczywiście wszyscy za to płacimy.
+[00:53:09.060 --> 00:53:13.060]   Ale były dotacje związane za pomoc między innymi zbrojną dla Ukrainy.
+[00:53:13.060 --> 00:53:15.060]   To Polska tych pieniędzy nie dostała.
+[00:53:15.060 --> 00:53:20.060]   Ale kiedy teraz zaproponowano kredyty na uzbrojenie, to tylko Polska je wzięła.
+[00:53:20.060 --> 00:53:22.060]   Niemcy na przykład z tego nie korzystali.
+[00:53:22.060 --> 00:53:23.060]   Dlaczego?
+[00:53:23.060 --> 00:53:31.060]   Dlatego, że co, że kupimy czołgi w Rheinmetall, że wydamy pieniądze z powrotem dostanie gospodarka między innymi niemiecka.
+[00:53:31.060 --> 00:53:33.060]   Bo my będziemy te kredyty spłacać.
+[00:53:33.060 --> 00:53:34.060]   To już nie była dotacja.
+[00:53:34.060 --> 00:53:38.060]   Oczywiście media przedstawiają je w takiej formie, że to proszę z Unii takie pieniądze.
+[00:53:38.060 --> 00:53:40.060]   Dlaczego nie mówią wyraźnie?
+[00:53:40.060 --> 00:53:43.060]   To jest pożyczka, którą będziemy musieli z dużymi odsetkami spłacić.
+[00:53:43.060 --> 00:53:46.060]   O bezpieczeństwie trzeba mówić precyzyjnie.
+[00:53:46.060 --> 00:53:51.060]   Polska rzeczywiście bierze pożyczkę, dobrze oprocentowaną pożyczkę z funduszu SAFE.
+[00:53:51.060 --> 00:53:54.060]   To jest europejski program na zakup uzbrojenia.
+[00:53:54.060 --> 00:53:56.060]   Tak można najkrócej powiedzieć.
+[00:53:56.060 --> 00:54:00.060]   Ale nie jest prawdą, że Polska jest jedynym krajem, który taką pożyczkę weźmie.
+[00:54:00.060 --> 00:54:11.060]   Na 27 krajów Unii Europejskiej 19 krajów takie pożyczki wykorzysta po to, żeby właśnie kupić sprzęt wojskowy.
+[00:54:11.060 --> 00:54:13.060]   Czy my będziemy kupować ten sprzęt w Polsce?
+[00:54:13.060 --> 00:54:14.060]   Mam nadzieję.
+[00:54:14.060 --> 00:54:16.060]   Ale to jest decyzja rządu Donalda Tuska.
+[00:54:16.060 --> 00:54:18.060]   Powinniśmy wydać te pieniądze w Polsce.
+[00:54:18.060 --> 00:54:25.060]   I mam nadzieję, że nie stanie się tak, że będzie to inwestycja we francuski czy niemiecki przemysł zbrojeniowy.
+[00:54:25.060 --> 00:54:28.060]   Bo wówczas byłyby to pieniądze źle wykorzystane.
+[00:54:28.060 --> 00:54:40.060]   Polska przekazała sprzęt wojskowy Ukrainie i podobnie jak wiele innych krajów zwróciła się do EPF-u, mechanizmu rekompensaty uruchomionego w ramach Unii Europejskiej.
+[00:54:40.060 --> 00:54:45.060]   O zwrot tych środków wystawiliśmy faktury na ponad 2 miliardy euro.
+[00:54:45.060 --> 00:54:53.060]   Dostaliśmy tylko niewielką część z tego, dlatego że pozostałe wypłaty blokują niestety niektóre kraje, między innymi Węgry.
+[00:54:53.060 --> 00:54:57.060]   Ale te pieniądze koniec końców trafią do Polski.
+[00:54:57.060 --> 00:54:59.060]   Natomiast warto jeszcze raz podkreślić.
+[00:54:59.060 --> 00:55:05.060]   Sprzęt wojskowy przekazany Ukrainie do obrony przed Federacją Rosyjską to inwestycja.
+[00:55:05.060 --> 00:55:07.060]   Inwestycja również w polskie bezpieczeństwo.
+[00:55:07.060 --> 00:55:13.060]   To dzięki temu sprzętowi nie mamy rosyjskich czołgów na wysokości Przemyśla czy Włodawy.
+[00:55:13.060 --> 00:55:22.060]   Tylko nadal walczą w Donbasie z Ukraińcami, którzy korzystają właśnie z naszego wojskowego sprzętu.
+[00:55:22.060 --> 00:55:30.060]   Dowodem, że jesteśmy Afroamerykanami Europy jest to, że usiądą wielcy do stołu i będą gadać o pokoju na Ukrainie.
+[00:55:30.060 --> 00:55:32.060]   Będą tu mówili pięknym językiem.
+[00:55:32.060 --> 00:55:36.060]   Ale ja nie będę tam widział. Sikorski!
+[00:55:36.060 --> 00:55:40.060]   Dlaczego ciebie tam nie będzie, Sikorski?
+[00:55:40.060 --> 00:55:44.060]   Przecież dałeś swoje prywatne 100 milionów dolarów na Ukrainę.
+[00:55:44.060 --> 00:55:45.060]   A co zmienisz?
+[00:55:45.060 --> 00:55:48.060]   Odebrałeś żonie i dałeś Ukraińcom.
+[00:55:48.060 --> 00:55:51.060]   Ja nawet nie podejrzewam, że ty brałeś nasze pieniądze.
+[00:55:51.060 --> 00:55:53.060]   Tak, tak śmiało mówiłeś Sikorski.
+[00:55:53.060 --> 00:55:55.060]   Tusku!
+[00:55:55.060 --> 00:55:58.060]   Dlaczego ciebie nie ma przy tym stole rokowań?
+[00:55:58.060 --> 00:56:01.060]   Gdzie chłopcy jesteście?
+[00:56:01.060 --> 00:56:03.060]   Nie ma was tam.
+[00:56:03.060 --> 00:56:05.060]   Mówi się, że nie ma Polski.
+[00:56:05.060 --> 00:56:12.060]   To wy nadstawiacie wszystkie możliwe, że tak powiem części ciała, żeby się przypodobać waszym pryncypałom.
+[00:56:12.060 --> 00:56:14.060]   Ale nie będzie tam was.
+[00:56:14.060 --> 00:56:15.060]   A zasada jest prosta.
+[00:56:15.060 --> 00:56:16.060]   Nic o nas bez nas.
+[00:56:16.060 --> 00:56:18.060]   Więc kim wy jesteście?
+[00:56:18.060 --> 00:56:20.060]   Karbowymi?
+[00:56:20.060 --> 00:56:25.060]   Może zmienimy nomenklaturę i nie będzie premier Rzeczpospolitej, tylko karbowy.
+[00:56:25.060 --> 00:56:26.060]   Albo uberkarbowy.
+[00:56:26.060 --> 00:56:31.060]   Kończąc wątek Ukraina-Rosja.
+[00:56:31.060 --> 00:56:36.060]   Bo tak się zastanawiałem, chociaż akurat między słowami padło.
+[00:56:36.060 --> 00:56:40.060]   Dwa krótkie pytania i proszę o takie w miarę dość krótkie, konkretne odpowiedzi.
+[00:56:40.060 --> 00:56:41.060]   Zobowiązujemy się.
+[00:56:41.060 --> 00:56:45.060]   Czy jesteście w stanie powiedzieć coś złego o dzisiejszej Rosji?
+[00:56:45.060 --> 00:56:46.060]   Oczywiście.
+[00:56:46.060 --> 00:56:48.060]   Tak, a dlaczego nie?
+[00:56:48.060 --> 00:56:49.060]   Dlaczego nie?
+[00:56:49.060 --> 00:56:50.060]   To co sądzicie obecnie?
+[00:56:50.060 --> 00:56:52.060]   A dlaczego mamy powiedzieć coś złego o dzisiejszej Rosji?
+[00:56:52.060 --> 00:56:57.060]   Dlaczego nie możemy powiedzieć coś złego o dzisiejszych Niemczech, Europie, Stanach?
+[00:56:57.060 --> 00:56:59.060]   Dawałem wam mówić.
+[00:56:59.060 --> 00:57:01.060]   Dawałem wam mówić.
+[00:57:01.060 --> 00:57:03.060]   Ale ciągle uderzasz ten wątek rosyjski.
+[00:57:03.060 --> 00:57:05.060]   I powiem ci szczerze, nie podoba mi się to.
+[00:57:05.060 --> 00:57:07.060]   Bo ja Rosji nie chwalę.
+[00:57:07.060 --> 00:57:10.060]   Więc dlaczego rozmawiamy o Rosji, a nie rozmawiamy o Polsce?
+[00:57:10.060 --> 00:57:13.060]   Bo my jesteśmy państwem polskim.
+[00:57:13.060 --> 00:57:17.060]   I nie mamy przemożnego wpływu na państwo rosyjskie.
+[00:57:17.060 --> 00:57:23.060]   I nie możemy nic w zasadzie zrobić w Rosji.
+[00:57:23.060 --> 00:57:25.060]   Możemy wszystko zrobić w Polsce.
+[00:57:25.060 --> 00:57:26.060]   To drugie krótkie pytanie.
+[00:57:26.060 --> 00:57:27.060]   Ale ja powiem coś złego o Rosji.
+[00:57:27.060 --> 00:57:28.060]   Proszę bardzo.
+[00:57:28.060 --> 00:57:29.060]   Żeby nie było, że nie.
+[00:57:29.060 --> 00:57:30.060]   Pierwsze.
+[00:57:30.060 --> 00:57:31.060]   Uważam.
+[00:57:31.060 --> 00:57:39.060]   Uważam, że ostatni gest zbicia odznaczeń wojskowych z mauzoleum katyńskiego.
+[00:57:39.060 --> 00:57:40.060]   Bo przypomnę ludzie.
+[00:57:40.060 --> 00:57:41.060]   Przypomnę.
+[00:57:41.060 --> 00:57:44.060]   Jelcyn udostępnił całe archiwum katyńskie.
+[00:57:44.060 --> 00:57:47.060]   Jelcyn, prezydent Rosji przeprosił za katyń.
+[00:57:47.060 --> 00:57:49.060]   Nie wolno nam o tym zapomnieć.
+[00:57:49.060 --> 00:57:56.060]   Za zgodą władz rosyjskich, moskiewskich, kremlowskich powstała metropolia katyńska.
+[00:57:56.060 --> 00:58:03.060]   Ten ruch zbicia tych odznaczeń na wniosek pewnej organizacji.
+[00:58:03.060 --> 00:58:05.060]   I podjęty przez któregoś tam prokuratora.
+[00:58:05.060 --> 00:58:12.060]   I odkuto te powoduje, jak to się mówi, odświeża śluby katyńskie.
+[00:58:12.060 --> 00:58:16.060]   Więc to jest głupie.
+[00:58:16.060 --> 00:58:18.060]   Rosja jest naszym sąsiadem.
+[00:58:18.060 --> 00:58:20.060]   I co mogę powiedzieć złego?
+[00:58:20.060 --> 00:58:21.060]   Obronną gospodarką.
+[00:58:21.060 --> 00:58:22.060]   Co mogę powiedzieć złego o Rosji?
+[00:58:22.060 --> 00:58:23.060]   No podobnie jak Niemce.
+[00:58:23.060 --> 00:58:27.060]   Rosja była, wchłaniała wszystko co wyprodukowaliśmy właściwie.
+[00:58:27.060 --> 00:58:34.060]   Że Rosja, władze rosyjskie dają posłuch ludziom, politykom,
+[00:58:34.060 --> 00:58:42.060]   które to rady są w konsekwencji na niekorzyść Rosji.
+[00:58:42.060 --> 00:58:54.060]   Ja szczerze mówiąc nawet się zastanawiam, czy jest sens poważnie odpowiadać na takie niepoważne tezy i na takie niepoważne głosy, wypowiedzi, które ci dwaj panowie prezentują.
+[00:58:54.060 --> 00:58:58.060]   No ale o Rosji oczywiście można powiedzieć różne rzeczy.
+[00:58:58.060 --> 00:59:01.060]   Głównie niestety złe o dzisiejszej Rosji.
+[00:59:01.060 --> 00:59:03.060]   Ja w tym kraju mieszkałem przez ostatnie pięć lat.
+[00:59:03.060 --> 00:59:15.060]   No i jest to kraj, który staje się coraz bardziej autorytarny, coraz bardziej policyjny, który kontroluje coraz większą część aktywności zwykłych obywateli.
+[00:59:15.060 --> 00:59:26.060]   No i w Rosji mają dobrze oczywiście ci, którzy po pierwsze zgadzają się we wszystkim z władzą, chcą walczyć na Ukrainie, chcą wysyłać swoje dzieci i mogą tam spokojnie żyć.
+[00:59:26.060 --> 00:59:30.060]   I oni mają to rzeczywiście dobrze i oni pewnie dobrze powiedzą o Rosji Putina.
+[00:59:30.060 --> 00:59:39.060]   Ale jeżeli ktoś ma inne zdanie, ktoś nie chce żyć w takim kraju, no to po prostu nie może tam żyć, bo to się nie da.
+[00:59:39.060 --> 00:59:48.060]   Więc nawet tego typu mówienie oczywiście o krzyżach Virtuti Militari, co też jest prawdą, miało miejsce.
+[00:59:48.060 --> 00:59:54.060]   No ale to nie opowiada o tym, jak funkcjonuje to państwo i czym jest dzisiejsza Rosja.
+[00:59:54.060 --> 00:59:59.060]   To jest kraj, tak jak powiedziałem, coraz bardziej autorytarny.
+[00:59:59.060 --> 01:00:03.060]   No i mam wrażenie, że coraz bardziej Polsce nieprzyjazny.
+[01:00:03.060 --> 01:00:05.060]   Drugie krótkie pytanie.
+[01:00:05.060 --> 01:00:08.060]   Czy Władimir Putin to zbrodniarz?
+[01:00:08.060 --> 01:00:11.060]   Ale nic mi o tym nie wiadomo.
+[01:00:11.060 --> 01:00:13.060]   Bardzo dobrze to wytłumaczył.
+[01:00:13.060 --> 01:00:14.060]   Bo będę pytał o jeszcze jednego.
+[01:00:14.060 --> 01:00:15.060]   Ja odeślę do tego.
+[01:00:15.060 --> 01:00:19.060]   Ja bardzo dobrze to wytłumaczył akurat w mediach Miller i powiedział jaki ma zarzut.
+[01:00:19.060 --> 01:00:28.060]   Zapomnieliśmy o człowieku mówiącym prawdę, który jest po przeciwnej stronie barykady niż my.
+[01:00:28.060 --> 01:00:30.060]   To były komuch.
+[01:00:30.060 --> 01:00:32.060]   Putin to zbrodniarz.
+[01:00:32.060 --> 01:00:35.060]   Jest ścigany przez Trybunał w Hadze.
+[01:00:35.060 --> 01:00:39.060]   To on odpowiada za zrównanie z ziemią mieszkańców Mariupola.
+[01:00:39.060 --> 01:00:42.060]   Podobno i tego nikt nie jest w stanie policzyć.
+[01:00:42.060 --> 01:00:47.060]   Leży tam 100 tysięcy ludzi pogrzebanych w swoich domach, pod swoimi domami.
+[01:00:47.060 --> 01:00:48.060]   To jest Bucza.
+[01:00:48.060 --> 01:00:49.060]   To jest Irpień.
+[01:00:49.060 --> 01:00:51.060]   To jest wiele, wiele innych miejsc.
+[01:00:51.060 --> 01:00:54.060]   To są obozy koncentracyjne dla żołnierzy.
+[01:00:54.060 --> 01:00:56.060]   Putin jest zbrodniarzem.
+[01:00:56.060 --> 01:00:58.060]   I jeszcze jedna rzecz.
+[01:00:58.060 --> 01:01:01.060]   Właśnie za to Putin ścigany jest przez Trybunał w Hadze.
+[01:01:01.060 --> 01:01:03.060]   Za porywanie ukraińskich dzieci.
+[01:01:03.060 --> 01:01:05.060]   Za rusyfikowanie ich.
+[01:01:05.060 --> 01:01:11.060]   To są już teraz dziesiątki tysięcy ukraińskich dzieci, które są wywożone w głąb Rosji.
+[01:01:11.060 --> 01:01:15.060]   A być może nawet jeszcze są takie informacje nawet do Korei Północnej.
+[01:01:15.060 --> 01:01:18.060]   Czuję temperaturę tego programu.
+[01:01:18.060 --> 01:01:19.060]   Zaczliśmy z Rosji.
+[01:01:19.060 --> 01:01:20.060]   Dziękujemy bardzo.
+[01:01:20.060 --> 01:01:22.060]   Na pewno wejdziemy teraz na antysemityzm.
+[01:01:22.060 --> 01:01:23.060]   Jeszcze nie.
+[01:01:23.060 --> 01:01:24.060]   Jeszcze nie.
+[01:01:24.060 --> 01:01:25.060]   Dobra.
+[01:01:25.060 --> 01:01:26.060]   Ale antysemityzm też będzie.
+[01:01:26.060 --> 01:01:27.060]   Będzie antysemityzm.
+[01:01:27.060 --> 01:01:28.060]   Czemu mnie to nie dziwi?
+[01:01:28.060 --> 01:01:31.060]   Zajmujemy się tematem, który jest tematem zastępczym.
+[01:01:31.060 --> 01:01:32.060]   Cały czas powtarzamy.
+[01:01:32.060 --> 01:01:36.060]   Porozmawiajmy o tym, o przyszłości naszego kraju.
+[01:01:36.060 --> 01:01:37.060]   O naszego narodu.
+[01:01:37.060 --> 01:01:38.060]   Co mamy zrobić, żeby było lepiej.
+[01:01:38.060 --> 01:01:40.060]   A nie tym kim my jesteśmy.
+[01:01:40.060 --> 01:01:42.060]   Bo całe społeczeństwo jest tacy.
+[01:01:42.060 --> 01:01:44.060]   Ale program jest o was.
+[01:01:44.060 --> 01:01:46.060]   Program jest o was.
+[01:01:46.060 --> 01:01:48.060]   No ja jestem c**olubny.
+[01:01:48.060 --> 01:01:49.060]   Chciałem powiedzieć.
+[01:01:49.060 --> 01:01:50.060]   Tak on Lugi Liza C*****.
+[01:01:50.060 --> 01:01:51.060]   Prawda.
+[01:01:51.060 --> 01:01:54.060]   Wprawdzie kiedy byłem mężem mojej żony
+[01:01:54.060 --> 01:01:57.060]   przez trzydzieści osiem lat byłem jej wierny jak pies.
+[01:01:57.060 --> 01:01:58.060]   Z różnych powodów.
+[01:01:58.060 --> 01:01:59.060]   Nie znalazłem lepszej.
+[01:01:59.060 --> 01:02:02.060]   Poza tym gdybym ją zdradził to bym nie zabiła.
+[01:02:02.060 --> 01:02:03.060]   W tempie Allegro.
+[01:02:03.060 --> 01:02:05.060]   A kochałem ją i kocham ją dalej.
+[01:02:05.060 --> 01:02:09.060]   I nie róbcie ze mnie pedala.
+[01:02:09.060 --> 01:02:10.060]   Przepraszam.
+[01:02:10.060 --> 01:02:11.060]   Co teraz?
+[01:02:11.060 --> 01:02:12.060]   Pedala.
+[01:02:12.060 --> 01:02:14.060]   Spotkałem w swojej branży wielu ludzi,
+[01:02:14.060 --> 01:02:16.060]   którzy się okazywało ku mojemu zdziwieniu,
+[01:02:16.060 --> 01:02:18.060]   że byli homoseksualistami.
+[01:02:18.060 --> 01:02:21.060]   Ja się dowiadywałem często o tym po kilku latach znajomości.
+[01:02:21.060 --> 01:02:24.060]   I oni nie dokonywali coming outu.
+[01:02:24.060 --> 01:02:26.060]   Jest w Polsce jeden artysta.
+[01:02:26.060 --> 01:02:28.060]   Wielki artysta.
+[01:02:28.060 --> 01:02:29.060]   Znakomity artysta.
+[01:02:29.060 --> 01:02:35.060]   Który cierpi przez to, że nie chce dokonać coming outu.
+[01:02:35.060 --> 01:02:42.060]   Ponieważ nie jest zainteresowany, żeby być funkcjonariuszem tej chorej wynaturzeniowej ideologii,
+[01:02:42.060 --> 01:02:44.060]   która płynie z Unii Europejskiej.
+[01:02:44.060 --> 01:02:45.060]   Nie jest zainteresowany.
+[01:02:45.060 --> 01:02:47.060]   On wiedzie swoje życie.
+[01:02:47.060 --> 01:02:52.060]   Ponosi za to bardzo wysoką cenę, to znaczy zmowy milczenia na jego temat.
+[01:02:52.060 --> 01:02:54.060]   Ja nie powiem tego nazwiska.
+[01:02:54.060 --> 01:02:55.060]   To jest nie jeden taki artysta.
+[01:02:55.060 --> 01:02:56.060]   To jest nie jeden.
+[01:02:56.060 --> 01:03:15.060]   A ja myślę o bardzo konkretnym człowieku i patrzę i gratuluję mu, że jego, że tak powiem preferencja nie zawładnęła nim aż do tego stopnia, że nie wylazł na jakiś płot w jakimś TVN-ie i nie zapiał jak kogut, że oto oznajmiam ludzkości, że ja jestem taki, a taki.
+[01:03:15.060 --> 01:03:37.060]   Doceniam to, ponieważ profity z tego miałby znakomite. Reklamy by miał, seriale by miał, koncerty by miał, a w dzień dobry TVN, czy do widzenia Polsa, czy jak tam się to nazywa, to on by wchodził i wychodził jak karuzela.
+[01:03:37.060 --> 01:03:48.260]   Wspominaliście, wspominaliście Igora Zalewskiego, jego materiał, sam na plecu powiedział, że wasi przeciwnicy, tak, póki nie nawołujecie do nienawiści, mamy wolność słowa i to jest jej.
+[01:03:48.260 --> 01:03:50.760]   Ale wolność słowa, a wolność czynu to nie jest.
+[01:03:50.760 --> 01:04:03.420]   A wolność, wiesz, narzucanie, powiem tak, zobaczyłem w kryminale, był taki moment, siedziałem w celi, gdzie był telewizor, tak zwany szkiełko i zobaczyłem program, nie będę mówił w jakim,
+[01:04:03.420 --> 01:04:22.420]   tym, że wystąpiło coś, co ewidentnie było facetem, ale to coś było przebrane za jakąś potworzycę, to było wypierdzione w jakiejś sukni i to nie mówiło o sobie, tylko to zabierało głos w jakiejś ważnej dyskusji chyba dotyczącej młodzieży.
+[01:04:22.420 --> 01:04:26.420]   Czyłem i nie wierzyłem. To jest, to tego nie wolno robić.
+[01:04:26.420 --> 01:04:41.420]   Nie ma symetryzmu, mówię o tym, że kiedy chce sobie iść parada tych zboczeń po Warszawie, to otwierają się dla nich wszystkie drzwi, jest sponsoring, zgoda na wjazd do centrum miasta, zablokowanie, ciężarówki, otwarte przestrzenie.
+[01:04:41.420 --> 01:04:43.420]   W momencie, w którym my chcemy zorganizować...
+[01:04:43.420 --> 01:04:45.420]   Wszystkie telewizje skierowane na to.
+[01:04:45.420 --> 01:05:00.420]   Oczywiście pokazuje się, nawet wspiera się, na przykład są stawiane namioty różnych organizacji miejskich, ściąga się na przykład instytucje z całej Europy, ściąga się ambasady, które promują tego typu ruchy.
+[01:05:00.420 --> 01:05:13.420]   Jest wszystko fajnie. W momencie, w którym chcemy zorganizować na przykład Marsz Przeciw Wojnie, to nawet mimo, że zgłaszamy przemarsz z punktu A do punktu B, robi się wszystko, żeby on się nie mógł odbyć.
+[01:05:13.420 --> 01:05:16.420]   Na przykład Unii możliwia się wjazdu pojazdu z nagłośnieniem.
+[01:05:16.420 --> 01:05:17.420]   Elektrycznego.
+[01:05:17.420 --> 01:05:18.420]   Tam jest wszystko otwarte.
+[01:05:18.420 --> 01:05:19.420]   Elektrycznego.
+[01:05:19.420 --> 01:05:26.420]   Na mnie. Mówimy o całkowitym asymetryzmie. Mówimy o domiarze niesprawiedliwości.
+[01:05:26.420 --> 01:05:41.420]   Sami powiedzieliście o tym antysemityzmie. Tak, to też wam się zarzuca. Chociaż akurat tu, panie Wojciechu, to pan bardziej mówił o sobie. Tu też dosłownie zacytuję.
+[01:05:41.420 --> 01:05:49.420]   Jeśli bym się dowiedział, że płynie we mnie jedna krew, chociaż jedna kropla krwi żydowskiej, to popełniłbym samostwo.
+[01:05:49.420 --> 01:05:55.420]   Opowiadał pan też o kobiecie, w której pan się zakochał, a okazała się żydówką.
+[01:05:55.420 --> 01:05:57.420]   I dlatego się pan z nią rosnął.
+[01:05:57.420 --> 01:06:04.420]   Nie byłoby problemu, gdybym stwierdził, że gdyby chociaż wpłynęła w moich żyłach jedna kropla czeskiej krwi, to bym się zastrzelił.
+[01:06:04.420 --> 01:06:05.420]   Podejrzewam, że...
+[01:06:05.420 --> 01:06:06.420]   Byłby antyczechizm?
+[01:06:06.420 --> 01:06:07.420]   Nikt by.
+[01:06:07.420 --> 01:06:08.420]   Nikt by.
+[01:06:08.420 --> 01:06:09.420]   Ja ten proces wygrałem, Dawid.
+[01:06:09.420 --> 01:06:10.420]   Ja ten proces wygrałem.
+[01:06:10.420 --> 01:06:11.420]   Stawałem przed sądem.
+[01:06:11.420 --> 01:06:12.420]   Dwa lata proces trwał.
+[01:06:12.420 --> 01:06:19.420]   I sędzia, która mnie uwolniła od tego zarzutu, dała prawomocny wyrok.
+[01:06:19.420 --> 01:06:21.420]   Jestem wolny, mam do tego prawo.
+[01:06:21.420 --> 01:06:31.420]   Tak samo wyobrażam sobie, że w Izraelu jest człowiek, który by powiedział, gdybym odkrył chociaż w sobie krople polskiej krwi, to bym się zastrzelił.
+[01:06:31.420 --> 01:06:38.420]   Nie podejrzewam, że wymiar sprawiedliwości państwa o nazwie Izrael postawiłby go przed sądem za antypolonizm.
+[01:06:38.420 --> 01:06:45.420]   Więc Tuwim, Tuwim, czysty Żyd, mówiąc językiem naszych sąsiadów ze wschodu.
+[01:06:45.420 --> 01:06:46.420]   Nastajaście i Ewrej.
+[01:06:46.420 --> 01:06:47.420]   Da?
+[01:06:47.420 --> 01:06:48.420]   Da.
+[01:06:48.420 --> 01:06:49.420]   Powiedział.
+[01:06:49.420 --> 01:06:54.420]   Moje żywo powiedział Tuwim, że jego żywo wisi mu flakiem.
+[01:06:54.420 --> 01:06:57.420]   Jestem, byłem i umrę Polakiem.
+[01:06:57.420 --> 01:06:59.420]   Jego manifest w osiemnastym roku.
+[01:06:59.420 --> 01:07:00.420]   I to nie znaczyło...
+[01:07:00.420 --> 01:07:01.420]   Poczekaj Marcin, bo to ważne.
+[01:07:01.420 --> 01:07:06.420]   To nie znaczyło, że on się odcinał od tego, że jest Żydem, tylko, że sam fakt ten, jemu wisi flakiem.
+[01:07:06.420 --> 01:07:10.420]   Bo on rodził się w Polsce, jest Polakiem, nikim nie będzie i umrze Polakiem.
+[01:07:10.420 --> 01:07:15.420]   Antysemityzm to jest takie pojęcie, które oczywiście bardzo trudno zdefiniować.
+[01:07:15.420 --> 01:07:18.420]   A łatwo każdemu przyczepić, że jest antysemitym.
+[01:07:18.420 --> 01:07:23.420]   Ja na przykład przez gazetę wyborczą kiedyś, tam dawno temu, zostałem uznany za antysemity.
+[01:07:23.420 --> 01:07:28.420]   Co oczywiście, moim zdaniem, nie ma nic wspólnego z rzeczywistością.
+[01:07:28.420 --> 01:07:34.420]   W związku z tym, niech zręcznie mi jest innych etykietkować jako antysemitów.
+[01:07:34.420 --> 01:07:45.420]   Ale powiem tak, że taki polityczny idol Pana Wojciecha Olszańskiego, czyli Bolesław Piasecki, no sam się identyfikował jako antysemita.
+[01:07:45.420 --> 01:07:50.420]   On był takim sztandarowym antysemitą w Polsce przedwojennej.
+[01:07:50.420 --> 01:07:55.420]   Był takim żydożercą, nazwijmy sprawy po imieniu.
+[01:07:55.420 --> 01:08:02.420]   A także po wojnie nie do końca, choć już nie tak otwarcie występował z takim programem.
+[01:08:02.420 --> 01:08:07.420]   Często się mówi o Piaseckim, że to jest komunista i faszysta w jednym.
+[01:08:07.420 --> 01:08:10.420]   To myślę, że to jest dosyć dobre określenie.
+[01:08:10.420 --> 01:08:12.420]   Bycie Żydem nie jest złe.
+[01:08:12.420 --> 01:08:15.420]   Jego... Słuchaj...
+[01:08:15.420 --> 01:08:18.420]   Mam przyjaciół Żydów.
+[01:08:18.420 --> 01:08:20.420]   Pozdrawiam Marka.
+[01:08:20.420 --> 01:08:21.420]   Jak się nazywa Marek?
+[01:08:21.420 --> 01:08:23.420]   Boże nazwisko mi...
+[01:08:23.420 --> 01:08:25.420]   Widzieliśmy jego zdjęcie.
+[01:08:25.420 --> 01:08:27.420]   Ja wiem, nie pamiętam jakąś nazwisko.
+[01:08:27.420 --> 01:08:29.420]   Marek, ja cię serdecznie przepraszam.
+[01:08:29.420 --> 01:08:38.420]   Na naszym wiecu pojawił się człowiek, który w internecie jako Żyd przedstawia swój punkt widzenia jako Żyd.
+[01:08:38.420 --> 01:08:43.420]   Przyszedł do nas, do polskich narodowców i podziękował nam za nasze wiece.
+[01:08:43.420 --> 01:08:48.420]   A dlaczego pan wtedy zerwał z tą dziewczyną, jak się okazało, że jest Żydówką?
+[01:08:48.420 --> 01:08:55.420]   Dlatego, że ja sobie nie wyobrażałem, że miałbym z tą Żydówką tworzyć życie wspólne.
+[01:08:55.420 --> 01:08:57.420]   Różni nas wszystko.
+[01:08:57.420 --> 01:08:58.420]   Różni nas wszystko.
+[01:08:58.420 --> 01:09:00.420]   Jestem Polakiem.
+[01:09:00.420 --> 01:09:05.420]   Tak samo, jakbym nigdy nie wziął sobie za żony żadnej innej...
+[01:09:05.420 --> 01:09:07.420]   z innego narodu.
+[01:09:07.420 --> 01:09:17.420]   Poza tym, może wtedy czułem, że zostałem oszukany, że wszyscy znając mój żydorealizm...
+[01:09:17.420 --> 01:09:18.420]   O tym mówisz?
+[01:09:18.420 --> 01:09:20.420]   Tak, tak, tak. Żydorealizm.
+[01:09:20.420 --> 01:09:21.420]   Pokazać to?
+[01:09:21.420 --> 01:09:22.420]   Oczywiście.
+[01:09:22.420 --> 01:09:28.420]   Możemy przybliżyć, podjechać.
+[01:09:28.420 --> 01:09:29.420]   Pozdrawiamy.
+[01:09:29.420 --> 01:09:30.420]   Jak zobaczy...
+[01:09:30.420 --> 01:09:30.420]   Dobra.
+[01:09:30.420 --> 01:09:31.420]   Ten człowiek...
+[01:09:31.420 --> 01:09:32.420]   O było...
+[01:09:32.420 --> 01:09:35.420]   Już już daj operatora, ja to ustawię, także nie było odbicia.
+[01:09:35.420 --> 01:09:36.420]   O.
+[01:09:36.420 --> 01:09:42.420]   Ten człowiek przyszedł do nas, to był wiec, popieraliśmy Grzegorza Braun przed pierwszą turą.
+[01:09:42.420 --> 01:09:47.420]   I jego postawa jest zgodna z tym, co powiedział Tuwim.
+[01:09:47.420 --> 01:10:02.420]   W osiemnastym roku chyba w Kurierze Porannym napisał, że panowie do Żydów może pora ściąć te pejsy, te brody, ściąć te hałaty i zasymilować się z narodem, z którym żyjecie od stuleci.
+[01:10:02.420 --> 01:10:09.420]   I poprzeć jego, i poprzeć jego wielkie pragnienie niepodległości.
+[01:10:09.420 --> 01:10:10.420]   I żyjecie, bo jest tutaj wam dobrze.
+[01:10:10.420 --> 01:10:23.420]   I ten Tuwim, ten Tuwim włożył, dał gigantyczny wkład do kultury polskiej. Jego poezja jest, jest fundamentem polskości.
+[01:10:23.420 --> 01:10:37.420]   Czyli tak, bycie Żydem nie jest dla was niczym złym, to już wiemy, chociaż mam wrażenie, że jednak mimo wszystko, czasem jak próbujecie kogoś zaatakować konfederację, atakowaliście, że tam wy konfederaci, wy Żydzi, że trochę pejoratywnie jednak używacie.
+[01:10:37.420 --> 01:10:53.420]   Nie, nie wy Żydzi. Zarzucaliśmy im albo strach przed Żydami, a właściwie przed gazetą wyborczą. Oni się tak kunktatorzyli, żeby przypadkiem nikt złego na ich temat artykułu nie napisał.
+[01:10:53.420 --> 01:10:57.420]   Chyba nie, mencenowi chyba zażyciłem.
+[01:10:57.420 --> 01:10:59.420]   Chyba, poczekajcie, chyba mam filmik.
+[01:10:59.420 --> 01:11:00.420]   No.
+[01:11:00.420 --> 01:11:01.420]   Pozwolicie, że sobie...
+[01:11:01.420 --> 01:11:10.420]   Tych sk***** synów zdrajców, zasrańców tych, tych śmierdzących tchórzy i tych ż***** stojących na ich czele.
+[01:11:10.420 --> 01:11:11.420]   Ż***** na ich czele.
+[01:11:11.420 --> 01:11:13.420]   No, ale to konkretne osoby.
+[01:11:13.420 --> 01:11:18.420]   Może rzeczywiście niefortunna jest tutaj składnia gramatyczna, ale wiecie co, to jest żywy program.
+[01:11:18.420 --> 01:11:20.420]   To jest żywy program, nie ma scenariusza.
+[01:11:20.420 --> 01:11:24.420]   A co by było, gdybym powiedział i tych Niemców, co stoją na ich czele.
+[01:11:24.420 --> 01:11:26.420]   Spaliliśmy statut Kaliski.
+[01:11:26.420 --> 01:11:28.420]   Spaliliście, o to też chciałem zapytać.
+[01:11:28.420 --> 01:11:31.420]   I od tego czasu zrobiła się awantura.
+[01:11:31.420 --> 01:11:34.420]   Ale co to jest statut Kaliski?
+[01:11:34.420 --> 01:11:49.420]   Ale myśmy spalili statut Kaliski nie dlatego, że był statutem regulującym prawa żydowskie, tylko dlatego, że spaliliśmy, nadzialiliśmy go na włócznie etruską, na symbol prawdy, bo spaliliśmy symbol fałszywki.
+[01:11:49.420 --> 01:11:50.420]   Tak.
+[01:11:50.420 --> 01:11:51.420]   Spaliliśmy kłamstwo.
+[01:11:51.420 --> 01:12:06.420]   Pokazaliśmy, że my jako Polacy w całym swoim działaniu powinniśmy kierować się prawdą i nie pozwalać sobie właśnie na to, aby powielać fałszywki, kłamstwa, aby powielać wzorce, które oparte są o kłamstwo.
+[01:12:06.420 --> 01:12:08.420]   I teraz trzeba wyjaśnić Marcin.
+[01:12:08.420 --> 01:12:13.420]   Statut Kaliski, używają zwrotów niektórzy statuty Kaliskie, nazywało się to statut Kaliski.
+[01:12:13.420 --> 01:12:23.420]   Statut Kaliski był to zbiór praw regulujących przepisy również dotyczące właśnie Żydów.
+[01:12:23.420 --> 01:12:25.420]   Ale w tej wersji, który jest publikowany…
+[01:12:25.420 --> 01:12:27.420]   Ale musimy daty podać, bo ludzie…
+[01:12:27.420 --> 01:12:29.420]   Dobrze, to ja mówię, zaraz rozwiniesz.
+[01:12:29.420 --> 01:12:36.420]   W tej wersji, który jest publikowany, który jest pokazywany, jest co udowodnił wyjątkowy naukowiec.
+[01:12:36.420 --> 01:12:41.420]   Badać historii prawa jurysta Polski, twórca prawa karnego…
+[01:12:41.420 --> 01:12:43.420]   Profesor Hube.
+[01:12:43.420 --> 01:12:47.420]   Profesor Hube jest fałszywy, jest oszustwem.
+[01:12:47.420 --> 01:12:49.420]   To nie jest prawdziwy statut Kaliski.
+[01:12:49.420 --> 01:12:57.420]   I na to chcieliśmy wskazać, żeby nie pozwalać na tworzenie przywilejów, bo tam on zawiera mnóstwo przywilejów,
+[01:12:57.420 --> 01:13:04.420]   nie pozwalać na tworzenie przywilejów i stosowanie przywilejów na podstawie fałszywych zapisów.
+[01:13:04.420 --> 01:13:07.420]   Tyle, tylko tyle i aż tyle.
+[01:13:07.420 --> 01:13:08.420]   A teraz co do faktów.
+[01:13:08.420 --> 01:13:09.420]   O co chodzi?
+[01:13:09.420 --> 01:13:10.420]   I co do daty, Wojciech?
+[01:13:10.420 --> 01:13:13.420]   Statut Kaliski powstał wy?
+[01:13:13.420 --> 01:13:22.420]   W 1264 roku został nadany przez księcia Kaliskiego Bolesława Pobożnego Żydom.
+[01:13:22.420 --> 01:13:25.420]   I nikt nie wie jak on wyglądał.
+[01:13:25.420 --> 01:13:32.420]   Po 200 latach przyszli Żydzi do króla Jagiellończyka, żeby odnowił te przepisy.
+[01:13:32.420 --> 01:13:35.420]   Przynieśli coś, co było kopią tego oryginału.
+[01:13:35.420 --> 01:13:38.420]   Bo oryginał, jak powiedzieli, spalił się w Poznaniu.
+[01:13:38.420 --> 01:13:39.420]   No więc Jagiellończyk...
+[01:13:39.420 --> 01:13:46.420]   Ale oni gwarantują, że całym tak zaprzysięgają się, że to jest dokładnie taka sama kopia.
+[01:13:46.420 --> 01:13:50.420]   No tam nie ma może pieczęci i podpisów kancelaryjnych, ale to jest dokładnie ta sama kopia.
+[01:13:50.420 --> 01:13:59.420]   No więc Jagiellończyk potężny władca i zauważcie, że przy Jagiellończyku nie ma żadnych awantur, a to był władca rządzący kilkadziesiąt lat Polską.
+[01:13:59.420 --> 01:14:05.420]   Biskup Oleśnicki i światli panowie usiedli.
+[01:14:05.420 --> 01:14:14.420]   Oni dysponowali statutem z Węgier, zapomniałem w tej chwili nazwy tego statutu, na którym był wzorowany statut Kaliski.
+[01:14:14.420 --> 01:14:15.420]   Porównali to.
+[01:14:15.420 --> 01:14:24.420]   I jak również wiedzieli o bardzo ważnej rzeczy, czyli o kwestiach stosowania czegoś, co wtedy było używane jako uwiarygodnienie danego pisma.
+[01:14:24.420 --> 01:14:31.420]   Nie było pieczęci, nie było zapisów archiwizycyjnych, ale były pewne standardy kancelaryjne.
+[01:14:31.420 --> 01:14:36.420]   Których tam nie było, że były odciski pieczęci różnych władców.
+[01:14:36.420 --> 01:14:45.420]   Na przykład świadkiem tego wszystkiego tutaj podpisuje się był na przykład starosta, nadany przez kogoś.
+[01:14:45.420 --> 01:14:49.420]   To było bardzo ważne, ale Marcin, bo rozpraszamy informacje.
+[01:14:49.420 --> 01:14:54.420]   Oni udowodnili wtedy, że ten statut jest fałszywy.
+[01:14:54.420 --> 01:15:03.420]   Rycerstwo, które wtedy podniosło Raban przeciwko temu statutowi, spowodowało, że Jagiellończyk nadał tak zwane statuty nieszawskie,
+[01:15:03.420 --> 01:15:07.420]   które się różniły od tego statutu, który przynieśli Żydzi do Jagiellończyka.
+[01:15:07.420 --> 01:15:15.420]   I oni przycupnęli i w 200 lat potem znowu przynieśli do następnego króla.
+[01:15:15.420 --> 01:15:24.420]   Zdaje się, że to się udało im zatwierdzić i ten statut kaliski w tej formie sfałszowanej ma nas hipnotyzować,
+[01:15:24.420 --> 01:15:30.420]   że dzięki temu statutowi oni sobie mogą rościć, uważajcie teraz, bo to jest bardzo ważne,
+[01:15:30.420 --> 01:15:32.420]   do współrządzenia Polską.
+[01:15:32.420 --> 01:15:39.420]   Jako narodowiec, jako polski nacjonalista nie życzę sobie, żeby jakieś mniejszości narodowe,
+[01:15:39.420 --> 01:15:46.420]   zorganizowane w związki czy grupy miały przywileje lepsze od Polaków.
+[01:15:46.420 --> 01:15:49.420]   W pierwszym punkcie tego statutu jest napisane.
+[01:15:49.420 --> 01:15:50.420]   Uważajcie.
+[01:15:50.420 --> 01:15:51.420]   Jesteś w stanie przeczytać?
+[01:15:51.420 --> 01:15:52.420]   Tak, oczywiście.
+[01:15:52.420 --> 01:15:52.420]   Proszę bardzo.
+[01:15:52.420 --> 01:15:53.420]   To jeden punkcik, dobra?
+[01:15:53.420 --> 01:15:54.420]   Najważniejszy.
+[01:15:54.420 --> 01:15:55.420]   Dwa.
+[01:15:55.420 --> 01:15:56.420]   Dwa.
+[01:15:56.420 --> 01:15:57.420]   Uważajcie.
+[01:15:57.420 --> 01:16:03.420]   Kiedy jest sprawa przeciwko Żydowi, nie może przeciw niemu świadczyć chrześcijanin sam,
+[01:16:03.420 --> 01:16:05.420]   lecz razem z innym Żydem.
+[01:16:05.420 --> 01:16:06.420]   I drugi?
+[01:16:06.420 --> 01:16:08.420]   Pierwszy, pierwszy poszedł.
+[01:16:08.420 --> 01:16:09.420]   To był pierwszy.
+[01:16:09.420 --> 01:16:10.420]   A gdzie jest Żyd?
+[01:16:10.420 --> 01:16:15.420]   Żyd posądzony o przestępstwo będzie, Żyd zwykłą przysięgą się od tego posądzenia uwolni.
+[01:16:15.420 --> 01:16:20.420]   Kiedy chrześcijanin pozywa Żyda o zastaw, Żyd zaś utrzymuje, że żadnego nie wziął,
+[01:16:20.420 --> 01:16:23.420]   wtedy Żyd przysięgą się uwolni.
+[01:16:23.420 --> 01:16:30.420]   Czyli jeżeli skarżysz Żyda, to musisz mieć drugiego Żyda, żeby mu udowodnić, że on jakiś czyn popełnił.
+[01:16:30.420 --> 01:16:37.420]   Natomiast kiedy Żyd ma udowodnić tobie, nie Żydowi, że on czegoś nie zrobił, to wystarczy, że on się zaprzysięży tego nie.
+[01:16:37.420 --> 01:16:44.420]   No i najstraszniejszy punkt, jeżeli za zabójstwo Żyda, kara główna, rozumiemy, zabójstwo człowieka,
+[01:16:44.420 --> 01:16:50.420]   ale nie tylko kara główna, konfiskata majątku rodzinnego zabójcy.
+[01:16:50.420 --> 01:16:53.420]   Tego nigdzie na świecie nie grali.
+[01:16:53.420 --> 01:16:56.420]   Tego nigdzie na świecie nie grali.
+[01:16:56.420 --> 01:17:11.420]   I ten statut Kaliski jest oczkiem w głowie tej politycznej narracji, że jak to w Muzeum POLIN jest napisane,
+[01:17:11.420 --> 01:17:16.420]   że od tysiąca lat Polacy dla Żydów byli tutaj sąsiadami.
+[01:17:16.420 --> 01:17:20.420]   I oni byli twórcami pierwszych sześćdziesiątek, czyli donosicieli.
+[01:17:20.420 --> 01:17:27.420]   Gdyby dowodów nie było kto zabił Żyda, my Żydom damy przeciw podejrzanym prawną opiekę.
+[01:17:27.420 --> 01:17:33.420]   Innymi słowy, jeżeli Żyd zginął, a nikt nie chciał powiedzieć kto go zabił, bo nie wiadomo kto,
+[01:17:33.420 --> 01:17:36.420]   no to wtedy byli zobowiązani do dania mu opieki.
+[01:17:36.420 --> 01:17:44.420]   W związku z czym jest to stawianie, zmuszanie również ludzi do właśnie takich działań, w których
+[01:17:44.420 --> 01:17:47.420]   no jak jest ktoś poszkodowany, no to wszyscy muszą ponieść te koszty.
+[01:17:47.420 --> 01:17:52.420]   Okej, tylko to na co my dzisiaj zwrotamy uwagę do pozostałych rzeczy.
+[01:17:52.420 --> 01:18:00.420]   I jeżeli uważamy, że to jest w porządku, bo taka opieka się należy, to gdzie jest zasada proporcjonalna.
+[01:18:00.420 --> 01:18:02.420]   Czyli gdzie jest taki zapis działający w drugą stronę.
+[01:18:02.420 --> 01:18:08.420]   Kto stworzył zjawisko antysemityzmu w Polsce, powiem wam, fałszerze statutu kaliskiego.
+[01:18:08.420 --> 01:18:13.420]   To oni doprowadzili do tego, że Polacy się wkurzali, rycerstwo się wściekło.
+[01:18:13.420 --> 01:18:21.420]   Bo rozpasanie cwaniaków, złodziei, szubrawców, którzy się ukrywali za tym statutem,
+[01:18:21.420 --> 01:18:24.420]   no tworzyło, nie ma dymu bez ognia ludzie, no nie ma dymu bez ognia.
+[01:18:24.420 --> 01:18:31.420]   Idąc dalej panowie, jak wam było w areszcie przez ten, no dość mimo wszystko długi czas.
+[01:18:31.420 --> 01:18:32.420]   To długi czas.
+[01:18:32.420 --> 01:18:37.420]   Mamy powiedzieć, mamy powiedzieć zdaniem, które Dorocie Warakomskiej odpowiedział
+[01:18:37.420 --> 01:18:42.420]   jeden ruski żołnierz na granicy czeczeńskiej, kiedy było minus 10 stopni mrozu,
+[01:18:42.420 --> 01:18:46.420]   śnieg padał, wiadr wiał i pani Dorota Warakomska
+[01:18:46.420 --> 01:18:52.420]   podeszła do takiego zakutanego sołdata, glut mu wisiał z nosa w hełmie przemarzniętego
+[01:18:52.420 --> 01:18:54.420]   i pyta się go, no jak wam tutaj jest.
+[01:18:54.420 --> 01:19:00.420]   I on tak popatrzył na tę panię Warakomską, popatrzył i mówi, jak umamy.
+[01:19:00.420 --> 01:19:02.420]   Jak umamy.
+[01:19:02.420 --> 01:19:03.420]   Więc my też mieliśmy.
+[01:19:03.420 --> 01:19:05.420]   Chcesz wiedzieć, jak jest w więzieniu?
+[01:19:05.420 --> 01:19:07.420]   To musisz do więzienia pójść.
+[01:19:07.420 --> 01:19:09.420]   To są rzeczy, których się nie da opisać.
+[01:19:09.420 --> 01:19:10.420]   Nie przekażemy ci.
+[01:19:10.420 --> 01:19:15.420]   Ale nie mówimy, że nie da się opisać w sensie takim, że dzieje się coś strasznego.
+[01:19:15.420 --> 01:19:17.420]   Tylko to trzeba przeżyć.
+[01:19:17.420 --> 01:19:19.420]   Są rzeczy, których nie jesteś w stanie sobie wyobrazić.
+[01:19:19.420 --> 01:19:23.420]   Bo jak nawet zaczniemy opowiadać, to będzie to jak opowieści z kolonii.
+[01:19:23.420 --> 01:19:27.420]   To jest jak dowcipie o ojcu, który z synem poszedł do Tesco
+[01:19:27.420 --> 01:19:29.420]   i ojciec mu tłumaczył, jak było za PRL-u.
+[01:19:29.420 --> 01:19:32.420]   I jak był ten kryzys, że prawie nic nie było.
+[01:19:32.420 --> 01:19:34.420]   Nie, za PRL-u w latach osiemdziesiątych.
+[01:19:34.420 --> 01:19:37.420]   Tak, kiedy przyszedł kryzys i że nic nie ma.
+[01:19:37.420 --> 01:19:40.420]   Wyobraź sobie, że w całym sklepie, gdzie byś nie poszedł,
+[01:19:40.420 --> 01:19:43.420]   to stał tylko ocet, groszek, musztarda.
+[01:19:43.420 --> 01:19:45.420]   I syn się tak na niego patrzy.
+[01:19:45.420 --> 01:19:47.420]   Tak, patrzy się na niego syn.
+[01:19:47.420 --> 01:19:51.420]   Rozgląda się po tym ogromnym Tesco.
+[01:19:51.420 --> 01:19:53.420]   I mówi: no jak tato?
+[01:19:53.420 --> 01:19:57.420]   I co, tak w całym Tesco na tych półkach tylko groszek i ocet?
+[01:19:57.420 --> 01:20:00.420]   Jeżeli nie pójdziesz, tego nie zrozumiesz.
+[01:20:00.420 --> 01:20:04.420]   Tu chodzi o tysiące szczegółów, o niuansów.
+[01:20:04.420 --> 01:20:08.420]   O rzecz, której nie pokażę żaden film nigdy.
+[01:20:08.420 --> 01:20:11.420]   Bo film to jest akcja.
+[01:20:11.420 --> 01:20:13.420]   A więzienie to jest brak akcji.
+[01:20:13.420 --> 01:20:15.420]   Ale nie wyglądacie na złamanych.
+[01:20:15.420 --> 01:20:17.420]   Bo więzienie nas nie łamie.
+[01:20:17.420 --> 01:20:19.420]   Bo my mamy swoją godność.
+[01:20:19.420 --> 01:20:23.420]   Nawet jeżeli tam trafiliśmy, to wiemy, że byliśmy więziami politycznymi.
+[01:20:23.420 --> 01:20:27.420]   Ale jest to miejsce i to nie jest miejsce, które nawet powinno łamać ludzi.
+[01:20:27.420 --> 01:20:29.420]   Więzienie ma być miejscem odbycia kary.
+[01:20:29.420 --> 01:20:31.420]   I resocjalizacji.
+[01:20:31.420 --> 01:20:33.420]   Nie, zapomnę.
+[01:20:33.420 --> 01:20:35.420]   W Polsce w ogóle nie ma programu resocjalizacji.
+[01:20:35.420 --> 01:20:37.420]   Znaczy ja mówię z założenia.
+[01:20:37.420 --> 01:20:39.420]   Nie ma.
+[01:20:39.420 --> 01:20:41.420]   Nie ma i nie ma programu resocjalizacji i się go nie umożliwia.
+[01:20:41.420 --> 01:20:47.420]   Przepraszam, zachowując wszelkie proporcje, jak moje ulubione zdanie z francuskiego.
+[01:20:47.420 --> 01:20:49.420]   Piłsudski powiedział tak.
+[01:20:49.420 --> 01:20:52.420]   Mogliście się za Polskę bić, możecie za Polskę iść do więzienia.
+[01:20:52.420 --> 01:20:55.420]   My wiedzieliśmy, dlaczego trafiliśmy do więzienia.
+[01:20:55.420 --> 01:20:58.420]   I byliśmy w więzieniu wśród Polaków.
+[01:20:58.420 --> 01:21:03.420]   Pilnowani przez służbę więzienną składającą się z Polaków.
+[01:21:03.420 --> 01:21:08.420]   Funkcjonariusze służby więziennej mają tutaj biało-czerwoną flagę na ramieniu.
+[01:21:08.420 --> 01:21:17.420]   I pozdrawiamy wszystkich, z którymi mieliśmy do czynienia, z którymi się zetknęliśmy.
+[01:21:17.420 --> 01:21:19.420]   Obserwowaliśmy ich pracę.
+[01:21:19.420 --> 01:21:24.420]   I tutaj z tej pozycji tego czarnego stołu w Studio Zero mówimy,
+[01:21:24.420 --> 01:21:31.420]   że nie dostrzegliśmy w pracy tych ludzi żadnego uchybienia i żadnego nietaktu.
+[01:21:31.420 --> 01:21:34.420]   Nie wobec nas, wobec innych ludzi.
+[01:21:34.420 --> 01:21:37.420]   Wobec innych ludzi mieliśmy okazję zobaczyć.
+[01:21:37.420 --> 01:21:41.420]   Czy to byli oddziałowi, czy to byli pomocnicy oddziałowych,
+[01:21:41.420 --> 01:21:46.420]   czy to byli tzw. funkcjonariusze, którzy nas doprowadzali w różne miejsca,
+[01:21:46.420 --> 01:21:51.420]   czy to byli funkcjonariusze, którzy byli tzw. spacerkowymi czy kogutkowymi.
+[01:21:51.420 --> 01:21:54.420]   Nie dostrzegliśmy u nich żadnego uchybienia.
+[01:21:54.420 --> 01:21:59.420]   Oni wykonują bardzo ciężką pracę, ponieważ oni są tym bębnem,
+[01:21:59.420 --> 01:22:05.420]   w który wali każdy skazany, każdy więzień.
+[01:22:05.420 --> 01:22:10.420]   Bo tylko na nich może odreagować to poczucie niesprawiedliwości,
+[01:22:10.420 --> 01:22:13.420]   które doznał od prokuratorów na przykład.
+[01:22:13.420 --> 01:22:16.420]   Albo od wyroków niesprawiedliwych.
+[01:22:16.420 --> 01:22:19.420]   Mieliście jakiś taki moment, nie wiem, refleksji,
+[01:22:19.420 --> 01:22:21.420]   ale nie jeśli chodzi o wasze poglądy,
+[01:22:21.420 --> 01:22:25.420]   ale że może rzeczywiście formuła była za mocna,
+[01:22:25.420 --> 01:22:27.420]   że może mogliście trochę delikatniej to by was nie wsadził.
+[01:22:27.420 --> 01:22:29.420]   Ale nikt się nie skarżył, Dawid.
+[01:22:29.420 --> 01:22:33.420]   Skarży się prokurator z donosu dwóch zboczeńców.
+[01:22:33.420 --> 01:22:34.420]   Rozumiesz?
+[01:22:34.420 --> 01:22:38.420]   Przestępcy skazanego prawomocnym wyrokiem i jego poplecznika.
+[01:22:38.420 --> 01:22:42.420]   Którzy się określają bardzo precyzyjnie.
+[01:22:42.420 --> 01:22:44.420]   Skazanego prawomocnym wyrokiem, który przed wyrokiem uciekł z Polski.
+[01:22:44.420 --> 01:22:47.420]   Czy ty wiesz ilu prokuratorów nie podjęło oskarżeń?
+[01:22:47.420 --> 01:22:49.420]   Na przykład mnie zatrzymano w Krakowie,
+[01:22:49.420 --> 01:22:53.420]   bo miałem na sobie z donosu oznaczenia hitlerowskie.
+[01:22:53.420 --> 01:22:54.420]   Dokładnie te same, które mam.
+[01:22:54.420 --> 01:22:55.420]   Tylko, że białe.
+[01:22:55.420 --> 01:22:56.420]   Jeszcze jedna rzecz.
+[01:22:56.420 --> 01:22:57.420]   Tak jak tutaj stoję.
+[01:22:57.420 --> 01:22:58.420]   Siedzisz.
+[01:22:58.420 --> 01:23:00.420]   Czemu wygadałeś?
+[01:23:00.420 --> 01:23:01.420]   Może nie widać, że siedzę.
+[01:23:01.420 --> 01:23:02.420]   Dobra, żartuję.
+[01:23:02.420 --> 01:23:04.420]   Tak jak tutaj jesteśmy.
+[01:23:04.420 --> 01:23:07.420]   Nie mam najmniejszej wątpliwości.
+[01:23:07.420 --> 01:23:09.420]   Szanowni Państwo.
+[01:23:09.420 --> 01:23:11.420]   My zostaniemy skazani.
+[01:23:11.420 --> 01:23:14.420]   Bo w Polsce nikt nie pozwoli sobie na to,
+[01:23:14.420 --> 01:23:16.420]   żeby niesłusznie oskarżony
+[01:23:16.420 --> 01:23:19.420]   mógł dochodzić odszkodowanie od Państwa za to,
+[01:23:19.420 --> 01:23:20.420]   że odbył wyrok więzienia.
+[01:23:20.420 --> 01:23:23.420]   W związku z czym coś nam przyklepią,
+[01:23:23.420 --> 01:23:26.420]   żeby ten pobyt, który odbył się w areszcie był właśnie...
+[01:23:26.420 --> 01:23:29.420]   Czyli będziecie składać wiązek o odszkodowanie za niesłuszne.
+[01:23:29.420 --> 01:23:30.420]   Coś Ci powiem.
+[01:23:30.420 --> 01:23:32.420]   Nie będzie niesłusznego, bo zostaniemy oskazani.
+[01:23:32.420 --> 01:23:34.420]   Rozumiem, ale planujecie, tak?
+[01:23:34.420 --> 01:23:36.420]   Nic nie planujemy.
+[01:23:36.420 --> 01:23:41.420]   Mówimy, dlaczego w Polsce ludzie, którzy trafili do aresztu karnego,
+[01:23:41.420 --> 01:23:44.420]   przepraszam, do aresztu śledczego, tak zwanego wydobywczego,
+[01:23:44.420 --> 01:23:46.420]   generalnie zawsze są skazywani.
+[01:23:46.420 --> 01:23:50.420]   W najgorszym wypadku jest tak, że wyrok na przykład mówi, że...
+[01:23:50.420 --> 01:23:52.420]   Paweł Kondratowicz, nasz kolega.
+[01:23:52.420 --> 01:23:53.420]   Ale nie, inaczej.
+[01:23:53.420 --> 01:23:58.420]   Wyrok mówi o tym, że jednak nie zasługiwało to na karę więzienia,
+[01:23:58.420 --> 01:23:59.420]   ale jest grzywna.
+[01:23:59.420 --> 01:24:02.420]   A tą karę, którą odbył w areszcie, to spłacił tą grzywnę.
+[01:24:02.420 --> 01:24:03.420]   Ale wiecie co?
+[01:24:03.420 --> 01:24:08.420]   Jeśli się zmieni sytuacja polityczna, mam obiecane, że będę ministrem spraw wewnętrznych.
+[01:24:08.420 --> 01:24:09.420]   Przez kogo?
+[01:24:09.420 --> 01:24:13.420]   Przez ci, którzy dojdą do władzy po zmianie politycznej.
+[01:24:13.420 --> 01:24:14.420]   Nie będzie lepszego.
+[01:24:14.420 --> 01:24:15.420]   Ponieważ ja tak.
+[01:24:15.420 --> 01:24:17.420]   Ja już miałem żonę.
+[01:24:17.420 --> 01:24:18.420]   Żyłem w luksusie.
+[01:24:18.420 --> 01:24:20.420]   Ja już się nie muszę dorabiać.
+[01:24:20.420 --> 01:24:24.420]   Nie mam żadnych kochanek, a tym bardziej jestem heteroseksualny.
+[01:24:24.420 --> 01:24:26.420]   Więc kochankowie też mi nie grożą.
+[01:24:26.420 --> 01:24:28.420]   Nie potrzebuję mieć żadnych samochodów.
+[01:24:28.420 --> 01:24:35.420]   Jako minister spraw wewnętrznych, ja mam tu w głowie ideę obrony państwa.
+[01:24:35.420 --> 01:24:36.420]   Narodową Polską.
+[01:24:36.420 --> 01:24:37.420]   Narodową Polską.
+[01:24:37.420 --> 01:24:41.420]   Ale to właśnie kończąc chciałem was już ostatnie pytanie.
+[01:24:41.420 --> 01:24:42.420]   A zaraz, bo jeszcze chciałem powiedzieć.
+[01:24:42.420 --> 01:24:43.420]   A Osadowski.
+[01:24:43.420 --> 01:24:48.420]   Osadowski będzie prezesem Krajowej Rady Radiofonii i Telewizji.
+[01:24:48.420 --> 01:24:54.420]   Ponieważ jego sprawiedliwość, jego obiektywizm, który mnie czasami doprowadza do białej gorączki.
+[01:24:54.420 --> 01:24:59.420]   Bo ja jestem człowiekiem, ja jestem jeźdźcem, jestem kawalerzystą.
+[01:24:59.420 --> 01:25:01.420]   A on jest mózgiem.
+[01:25:01.420 --> 01:25:06.420]   Osadowski bierze patyk, szyszkę, kawałek szkła, drut i robi transmisję internetową.
+[01:25:06.420 --> 01:25:15.420]   I on, jako człowiek sprawiedliwy i obiektywny, nikogo by, żadnej cenzury by nie zaprowadzał.
+[01:25:15.420 --> 01:25:17.420]   Dałby ludziom się informować.
+[01:25:17.420 --> 01:25:20.420]   Dałby prawo zakładania telewizji.
+[01:25:20.420 --> 01:25:25.420]   Prawo, jak to się mówi, że wy nie możecie wejść do ogólnopolskiej.
+[01:25:25.420 --> 01:25:26.420]   Koncesję?
+[01:25:26.420 --> 01:25:27.420]   Koncesję na co?
+[01:25:27.420 --> 01:25:28.420]   Na nadawanie, tak?
+[01:25:28.420 --> 01:25:29.420]   Na nadawanie, tak.
+[01:25:29.420 --> 01:25:30.420]   Dostaliśmy koncesję.
+[01:25:30.420 --> 01:25:31.420]   Dostaliśmy koncesję.
+[01:25:31.420 --> 01:25:32.420]   Dostaliście.
+[01:25:32.420 --> 01:25:33.420]   I będziecie wchodzić, czy już weszliście?
+[01:25:33.420 --> 01:25:34.420]   Będziemy w telewizji.
+[01:25:34.420 --> 01:25:35.420]   Super.
+[01:25:35.420 --> 01:25:36.420]   Bardzo dobrze.
+[01:25:36.420 --> 01:25:38.420]   Osadowski by rozdawał ludziom.
+[01:25:38.420 --> 01:25:41.420]   Bo jest wolnościowcem.
+[01:25:41.420 --> 01:25:43.420]   Ja jestem narodowcem.
+[01:25:43.420 --> 01:25:45.420]   Nie jestem ani prawicowcem, ani lewicowcem.
+[01:25:45.420 --> 01:25:47.420]   Jestem nacjonalistą polskim.
+[01:25:47.420 --> 01:25:48.420]   A to jest wolnościowiec.
+[01:25:48.420 --> 01:25:49.420]   I on by dał.
+[01:25:49.420 --> 01:25:50.420]   Ja wiem, że by dał.
+[01:25:50.420 --> 01:25:52.420]   Ponieważ ludziom się należy.
+[01:25:52.420 --> 01:25:54.420]   Rozbicie monopolu.
+[01:25:54.420 --> 01:26:00.420]   Ostatnie pytanie trochę i tak, do którego już nawiązaliście już tak naprawdę krótko kończąc.
+[01:26:00.420 --> 01:26:01.420]   Bo bardzo mnie to zainteresowało.
+[01:26:01.420 --> 01:26:07.420]   No między innymi trochę przez ten obrazek też od razu pomyślałem, że warto by było z Wami porozmawiać.
+[01:26:07.420 --> 01:26:14.420]   No stajecie z Grzegorzem Braunem, który też w wielu kręgach politycznych już staje się taką personą non grata.
+[01:26:14.420 --> 01:26:18.420]   Czy to z nim będziecie szli dalej do przodu?
+[01:26:18.420 --> 01:26:22.420]   Myśmy się z Grzegorzem Braunem spotkali w Białymstoku na marszu antywojennym.
+[01:26:22.420 --> 01:26:25.420]   My robiliśmy nasze wiece antywojenne.
+[01:26:25.420 --> 01:26:27.420]   Polsko za pokojem nazwa hasło.
+[01:26:27.420 --> 01:26:28.420]   To nie nasza.
+[01:26:28.420 --> 01:26:29.420]   Czy to nie jest w ogóle atak w waszą stronę?
+[01:26:29.420 --> 01:26:30.420]   Nie, nie, nie.
+[01:26:30.420 --> 01:26:31.420]   To maczymy.
+[01:26:31.420 --> 01:26:34.420]   Czy będziecie szli, jakoś się wiązali z Grzegorzem Braunem?
+[01:26:34.420 --> 01:26:37.420]   Moja żona takie hasło kiedyś stworzyła.
+[01:26:37.420 --> 01:26:38.420]   Piękne hasło.
+[01:26:38.420 --> 01:26:39.420]   Najpiękniejszy.
+[01:26:39.420 --> 01:26:45.420]   Nawet najpiękniejszy dzień wojny jest i tak gorszy od najgorszego dnia pokoju.
+[01:26:45.420 --> 01:26:46.420]   Tak.
+[01:26:46.420 --> 01:26:53.420]   I my mieliśmy takie wiece, gdzie wykładaliśmy worki, które imitowały worki z trupami.
+[01:26:53.420 --> 01:26:58.420]   Kilkadziesiąt takich worków czarnych, prawdziwych worków.
+[01:26:58.420 --> 01:26:59.420]   Zapaliliśmy znicze.
+[01:26:59.420 --> 01:27:00.420]   Zapaliliśmy znicze.
+[01:27:00.420 --> 01:27:01.420]   Na tych workach było oznaczenie.
+[01:27:01.420 --> 01:27:02.420]   Nieznany.
+[01:27:02.420 --> 01:27:07.420]   No bo ci, którzy będą ginąć na froncie, ci są głównie nieznani, żeby nie płacić odszkodowania rodzinom.
+[01:27:07.420 --> 01:27:08.420]   Wiece antywojenne.
+[01:27:08.420 --> 01:27:12.420]   Myśmy się z Grzegorzem Braunem spotkali na wiecu antywojennym w Białymstoku.
+[01:27:12.420 --> 01:27:16.420]   Łączy nas ta idea, żeby to nie nasza wojna.
+[01:27:16.420 --> 01:27:19.420]   Nie powinniśmy ułożyć na tę wojnę.
+[01:27:19.420 --> 01:27:21.420]   Ponosić kosztów tej wojny.
+[01:27:21.420 --> 01:27:24.420]   Ani wspierać żadnych z walczących tam stron.
+[01:27:24.420 --> 01:27:26.420]   Nie leży to w naszym interesie.
+[01:27:26.420 --> 01:27:28.420]   Natomiast on nas nie odbierał przy areszcie.
+[01:27:28.420 --> 01:27:29.420]   To się nie wydarzyło.
+[01:27:29.420 --> 01:27:33.420]   Grzegorza Brauna znamy nie od dzisiaj przecież.
+[01:27:33.420 --> 01:27:35.420]   Wspieramy go.
+[01:27:35.420 --> 01:27:37.420]   W jego kampanii wyborczej wspieraliśmy go.
+[01:27:37.420 --> 01:27:39.420]   Zbieraliśmy głosy.
+[01:27:39.420 --> 01:27:41.420]   Rodawcy kamraci zbierali głosy.
+[01:27:41.420 --> 01:27:47.420]   Natomiast trudno mi powiedzieć, czy będziemy razem z nim politycznie maszerować.
+[01:27:47.420 --> 01:27:49.420]   Bo mamy trochę różnic.
+[01:27:49.420 --> 01:27:50.420]   My z Osadowskim...
+[01:27:50.420 --> 01:27:53.420]   Ale widzimy też bardzo ważne elementy, które nas łączą.
+[01:27:53.420 --> 01:27:56.420]   Wiemy, że jesteśmy w zasadzie po tej samej stronie barykady.
+[01:27:56.420 --> 01:27:59.420]   I nie zgadzam się, że jest persona non grata.
+[01:27:59.420 --> 01:28:06.420]   Uważam, że wiele polityków i osobistości medialnych chce go wykreować na persona non grata.
+[01:28:06.420 --> 01:28:07.420]   A dlaczego?
+[01:28:07.420 --> 01:28:08.420]   Znaczy no, to powiedziałem, że no jest.
+[01:28:08.420 --> 01:28:11.420]   Dlatego, że politycznie fajnie jest manipulować ludźmi.
+[01:28:11.420 --> 01:28:17.420]   I nie potrzebny jest człowiek, który w sposób taki wybitny, jak potrafi robić to Grzegorz Braun,
+[01:28:17.420 --> 01:28:20.420]   wykładać kawę na ławę, pokazywać prawdę.
+[01:28:20.420 --> 01:28:21.420]   Jest erudytą.
+[01:28:21.420 --> 01:28:22.420]   Jest oczytany.
+[01:28:22.420 --> 01:28:23.420]   Zna doskonale historie.
+[01:28:23.420 --> 01:28:25.420]   Nie pozwala sobie wciskać kitu.
+[01:28:25.420 --> 01:28:29.420]   I nie jest osobą, która ma jakikolwiek opór, aby zareagować.
+[01:28:29.420 --> 01:28:32.420]   Tak jak siedzi aktywiście i opowiada głupoty.
+[01:28:32.420 --> 01:28:38.420]   Obok siedzi pan profesor wykładowca Uniwersytetu Warszawskiego.
+[01:28:38.420 --> 01:28:42.420]   Słyszy idiotkę, która mówi kłamstwa i on nawet nie zareaguje.
+[01:28:42.420 --> 01:28:43.420]   Nie powie co pani mówi.
+[01:28:43.420 --> 01:28:44.420]   To są bzdury.
+[01:28:44.420 --> 01:28:45.420]   Pani zaprzecza nauce.
+[01:28:45.420 --> 01:28:50.420]   To chodzi o to, żeby czasami przynajmniej był człowiek, który zareaguje i powie, że to jest głupota.
+[01:28:50.420 --> 01:29:00.420]   A teraz Konfederacja Korony Polskiej bardzo nam bliska przecież, ale przecież nie jesteśmy jej członkami, ale bardzo nam bliska.
+[01:29:00.420 --> 01:29:04.420]   Świetnie, że taka partia jest i że ludzie chcą działać.
+[01:29:04.420 --> 01:29:09.420]   Znajdują swoje miejsce, bo może rzeczywiście nasza jest za radykalna w swojej postawie.
+[01:29:09.420 --> 01:29:12.420]   Ale przede wszystkim Konfederacja Korony Polskiej to nie jest Grzegorz Braun.
+[01:29:12.420 --> 01:29:14.420]   Tam jest znacznie więcej ludzi.
+[01:29:14.420 --> 01:29:18.420]   Tam są wybitne osobistości, które również przecież tworzą te partie.
+[01:29:18.420 --> 01:29:19.420]   Nie dostrzegać.
+[01:29:19.420 --> 01:29:20.420]   Pan Skalik, pan Fritz.
+[01:29:20.420 --> 01:29:24.420]   Przecież to są ludzie, którzy w przestrzeni publicznej świetnie potrafią się znaleźć.
+[01:29:24.420 --> 01:29:33.420]   No ja rozumiem, że nasi przeciwnicy polityczni chcieliby, żeby była tylko jedna partia albo przynajmniej dwie, czyli PO i PiS i nic więcej.
+[01:29:33.420 --> 01:29:38.420]   I oni wtedy by nas rozgrywali tak jak w Ameryce, republikanie i demokraci i na tym koniec.
+[01:29:38.420 --> 01:29:40.420]   Raz wy, raz my, raz wy.
+[01:29:40.420 --> 01:29:41.420]   Dziennik i rządzi.
+[01:29:41.420 --> 01:29:42.420]   Tak.
+[01:29:42.420 --> 01:29:43.420]   I żadnej wolności.
+[01:29:43.420 --> 01:29:44.420]   Dziękuję bardzo.
+[01:29:44.420 --> 01:29:45.420]   Ale czekaj, nie.
+[01:29:45.420 --> 01:29:46.420]   Na koniec.
+[01:29:46.420 --> 01:29:47.420]   Nie ma tak lekko.
+[01:29:47.420 --> 01:29:48.420]   Ok, musisz wrócić.
+[01:29:48.420 --> 01:29:49.420]   Zaśpiewamy.
+[01:29:49.420 --> 01:29:51.420]   Nie ma tak lekko.
+[01:29:51.420 --> 01:29:52.420]   Dobra, pora jest.
+[01:29:52.420 --> 01:29:53.420]   Akurat możemy do niej nawiązać.
+[01:29:53.420 --> 01:29:54.420]   Tak.
+[01:29:54.420 --> 01:29:58.420]   Zaśpiewamy wam piosenkę, która towarzyszy nam od początku.
+[01:29:58.420 --> 01:29:59.420]   Zero polityki.
+[01:29:59.420 --> 01:30:00.420]   Zero.
+[01:30:00.420 --> 01:30:04.420]   Transistencjalizm, tak zwane solidarność z ludzkim losem.
+[01:30:04.420 --> 01:30:05.420]   Pieśń o Ułanu.
+[01:30:05.420 --> 01:30:06.420]   O Ułanie.
+[01:30:06.420 --> 01:30:07.420]   Masz?
+[01:30:07.420 --> 01:30:09.420]   Raz, dwa, trzy, cztery.
+[01:30:09.420 --> 01:30:16.420]   Gdy na drzewach szron tej piosenki ton niesie się przez broźne pole.
+[01:30:16.420 --> 01:30:17.420]   Aha.
+[01:30:17.420 --> 01:30:19.420]   Jak to ułan chwat.
+[01:30:19.420 --> 01:30:21.420]   Co z konika zsiadu.
+[01:30:21.420 --> 01:30:23.420]   Z ciężkim słowem ja.
+[01:30:23.420 --> 01:30:26.420]   Hejże.
+[01:30:26.420 --> 01:30:30.420]   Wojeneczko, grasz fałszywą kartą.
+[01:30:30.420 --> 01:30:33.420]   Jak cię zgubi trzecia kula.
+[01:30:33.420 --> 01:30:35.420]   To dostaniesz czwartą.
+[01:30:35.420 --> 01:30:37.420]   Świerć wojenki siostra.
+[01:30:37.420 --> 01:30:39.420]   Też się nieźle krząta.
+[01:30:39.420 --> 01:30:46.420]   Jak cię zgubi czwarta kula to cię znajdzie piąta.
+[01:30:46.420 --> 01:30:48.420]   Dziękuję bardzo panowie.
+[01:30:48.420 --> 01:30:53.420]   Byli ze mną liderzy, już powiem dobrze, rodaków kamratów.
+[01:30:53.420 --> 01:30:54.420]   Już idąc za.
+[01:30:54.420 --> 01:30:55.420]   Dobre, dobre.
+[01:30:55.420 --> 01:30:57.420]   Czy jednak bracia kamraci może zmienić nazwę.
+[01:30:57.420 --> 01:30:58.420]   Nie.
+[01:30:58.420 --> 01:30:59.420]   Braci Toma.
+[01:30:59.420 --> 01:31:00.420]   Bo są też z nami siostry.
+[01:31:00.420 --> 01:31:02.420]   Braci Toma Giertych.
+[01:31:02.420 --> 01:31:04.420]   My mamy rodaków kamratów.
+[01:31:04.420 --> 01:31:08.420]   Liderzy rodaków kamratów Wojciech Olszański i Marcin Osadowski.
+[01:31:08.420 --> 01:31:09.420]   Dziękuję bardzo.
+[01:31:09.420 --> 01:31:10.420]   Kłaniam się państwu.
+[01:31:10.420 --> 01:31:11.420]   Dziękuję bardzo.
+[01:31:11.420 --> 01:31:12.420]   Dziękuję tobie za problem.
+[01:31:12.420 --> 01:31:15.420]   Dziękujemy również realizatorom za to, że tak.
+[01:31:15.420 --> 01:31:17.420]   Gratuluję ci cholero.
+[01:31:17.420 --> 01:31:18.420]   Byłeś w kanale Zero.
+[01:31:18.420 --> 01:31:20.420]   Gratuluję ci cholero.
+[01:31:20.420 --> 01:31:21.420]   Dziękujemy bardzo.
+[01:31:21.420 --> 01:31:22.420]   Śmierć wrogom ojczyzny.
+[01:31:22.420 --> 01:31:23.420]   Śmierć.
+[01:31:23.420 --> 01:31:24.420]   Śmierć.
+[01:31:24.420 --> 01:31:25.420]   A Polakom.
+[01:31:25.420 --> 01:31:26.420]   Życie.
+[01:31:26.420 --> 01:31:28.420]   Życie w dobrobycie.
+[01:31:28.420 --> 01:31:29.420]   Dobra.
+[01:31:29.420 --> 01:31:30.420]   Czuj duch.
+[01:31:30.420 --> 01:31:35.420]   Nat Love Croissant od All Nutrition.
+[01:31:35.420 --> 01:31:37.420]   Truskawkowy bez dodanego cukru.
+[01:31:37.420 --> 01:31:39.420]   Idealny na chwilę przyjemności.
+[01:31:39.420 --> 01:31:42.420]   Twoja karta ma zero benefitów?
+[01:31:42.420 --> 01:31:45.420]   Zmień ją na kartę Zen.
+[01:31:45.420 --> 01:31:48.420]   Siedem polskich grzechów głównych.
+[01:31:48.420 --> 01:31:50.420]   Analizuje Joanna Pinkwart.
+[01:31:50.420 --> 01:31:52.420]   Najnowszy magazyn Zero już dostępny.
+[01:31:52.420 --> 01:31:54.420]   Zamów na magazyn.zero.pl
+[01:31:54.420 --> 01:32:05.420]   Kliknij w jeden z polecanych filmów, aby obejrzeć najlepsze produkcje kanału Zero.
